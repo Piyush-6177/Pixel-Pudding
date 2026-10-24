@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>Pixel Pudding · cozy recipes in a pixel-art kitchen</title>
+    <meta name="description" content="Cozy, traditional recipes in a nostalgic pixel-art recipe book. Indian home cooking and world comfort food, with a servings scaler and tickable steps." />
+    <link rel="icon" type="image/svg+xml" href="/logo/pixel-pudding-favicon-16-light.svg" />
+    <meta name="theme-color" content="#FFF4E0" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#2B2438" media="(prefers-color-scheme: dark)" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" />
+    <!-- Apply the saved/system theme before React renders, to avoid a flash of the wrong colours -->
+    <script>
+      (function () {
+        var t = null;
+        try { t = localStorage.getItem('pp-theme'); } catch (e) {}
+        if (t !== 'light' && t !== 'dark') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', t);
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
