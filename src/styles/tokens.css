@@ -1,0 +1,98 @@
+/* ─────────────────────────────────────────────────────────────
+   Pixel Pudding design tokens
+   Every colour, font and timing used by the site lives here.
+   Change a value once and the whole site follows.
+   ───────────────────────────────────────────────────────────── */
+@import 'tailwindcss';
+
+/* Tailwind reads these as utilities: bg-bg, text-text, border-outline, font-pixel … */
+@theme {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
+  --color-accent: var(--accent);
+  --color-highlight: var(--highlight);
+  --color-lilac: var(--lilac);
+  --color-heart: var(--heart);
+  --color-outline: var(--outline);
+  --color-deep: var(--deep);
+  --color-text: var(--text);
+  --color-muted: var(--muted);
+  --color-ink: var(--ink);
+  --color-cover: var(--cover);
+  --color-cover-dark: var(--cover-dark);
+  --color-paper: var(--paper);
+  --color-paper-line: var(--paper-line);
+  --color-paper-ink: var(--paper-ink);
+  --color-wood: var(--wood);
+  --color-wood-dark: var(--wood-dark);
+
+  --font-pixel: 'Press Start 2P', ui-monospace, 'Courier New', monospace;
+  --font-body: 'VT323', ui-monospace, 'Courier New', monospace;
+
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* ── LIGHT: "sunny cream" ── */
+:root {
+  --bg: #fff4e0;
+  --surface: #fffaf0;
+  --surface-2: #f8e7cb;
+  --primary: #ffc8a2;
+  --secondary: #b8e0c8;
+  --accent: #a9d6e5;
+  --highlight: #ffe5a0;
+  --lilac: #d9c8ec;
+  --heart: #f07c8a;
+  --outline: #4e3a3e;
+  --deep: #c98a5e;
+  --text: #4e3a3e;
+  --muted: #7a5f5f;
+  --ink: #4e3a3e; /* text placed on coloured buttons/badges */
+  --cover: #d9645a; /* book leather */
+  --cover-dark: #a9463f;
+  --paper: #fff6e4;
+  --paper-line: #e8d3b0;
+  --paper-ink: #8a6f66; /* text printed on the paper pages, same in both themes */
+  --wood: #c98b5e;
+  --wood-dark: #8a5636;
+  --focus: #4e86a8;
+  color-scheme: light;
+}
+
+/* ── DARK: "cozy night" ── */
+:root[data-theme='dark'] {
+  --bg: #2b2438;
+  --surface: #3a3150;
+  --surface-2: #332a4a;
+  --primary: #e8a584;
+  --secondary: #8fbfa5;
+  --accent: #8ab6d6;
+  --highlight: #f2d58a;
+  --lilac: #b6a3d4;
+  --heart: #f08a96;
+  --outline: #1a1424;
+  --deep: #0e0a15;
+  --text: #f5e9d7;
+  --muted: #c9b9a6;
+  --ink: #2b2438;
+  --cover: #bc5650;
+  --cover-dark: #863a3a;
+  --paper: #eadbc2;
+  --paper-line: #bfaa8c;
+  --paper-ink: #6b5248;
+  --wood: #7a5143;
+  --wood-dark: #432a24;
+  --focus: #b5d3ea;
+  color-scheme: dark;
+}
+
+/* ── Motion timings (ms) ── */
+:root {
+  --t-theme: 400ms; /* colour crossfade when switching theme */
+  --t-flip: 600ms; /* card flip */
+  --t-turn: 750ms; /* page turn */
+  --t-press: 150ms; /* button press */
+}

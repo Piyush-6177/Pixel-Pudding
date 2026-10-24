@@ -1,0 +1,186 @@
+/* ─────────────────────────────────────────────────────────────
+   Global pixel styling: fonts, chunky borders, buttons, focus,
+   reduced-motion. Components use these classes + Tailwind.
+   ───────────────────────────────────────────────────────────── */
+
+html,
+body,
+#root {
+  height: 100%;
+}
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 22px;
+  line-height: 1.2;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: grayscale;
+  transition:
+    background-color var(--t-theme),
+    color var(--t-theme);
+  overflow-x: hidden;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-pixel);
+  font-weight: 400;
+  margin: 0;
+  text-wrap: balance;
+  line-height: 1.5;
+}
+p {
+  margin: 0;
+}
+canvas,
+img.pixel,
+svg.pixel {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+/* Dither texture over any page background */
+.dither {
+  background-image: radial-gradient(color-mix(in srgb, var(--primary) 35%, transparent) 1px, transparent 1.5px);
+  background-size: 12px 12px;
+}
+
+/* Chunky stepped pixel frame: 4px outline via stacked shadows + hard drop shadow */
+.pixel-frame {
+  box-shadow:
+    0 -4px 0 0 var(--outline),
+    0 4px 0 0 var(--outline),
+    -4px 0 0 0 var(--outline),
+    4px 0 0 0 var(--outline),
+    0 10px 0 0 var(--deep);
+  margin: 4px 4px 14px;
+}
+.pixel-frame-sm {
+  box-shadow:
+    0 -3px 0 0 var(--outline),
+    0 3px 0 0 var(--outline),
+    -3px 0 0 0 var(--outline),
+    3px 0 0 0 var(--outline),
+    0 6px 0 0 var(--deep);
+  margin: 3px 3px 9px;
+}
+
+/* Pixel focus ring, visible for keyboard users only */
+:focus-visible {
+  outline: 4px dashed var(--focus);
+  outline-offset: 6px;
+}
+
+/* Pixel button base (PixelButton.jsx adds colour via inline vars) */
+.pbtn {
+  font-family: var(--font-pixel);
+  font-size: 12px;
+  line-height: 1.2;
+  color: var(--ink);
+  background: var(--btn, var(--primary));
+  border: 0;
+  cursor: pointer;
+  padding: 16px 20px 14px;
+  margin: 4px 4px 14px;
+  position: relative;
+  box-shadow:
+    0 -4px 0 0 var(--outline),
+    0 4px 0 0 var(--outline),
+    -4px 0 0 0 var(--outline),
+    4px 0 0 0 var(--outline),
+    inset 0 4px 0 0 color-mix(in srgb, var(--btn, var(--primary)) 60%, white),
+    inset 0 -5px 0 0 color-mix(in srgb, var(--btn, var(--primary)) 75%, var(--outline)),
+    0 10px 0 0 var(--deep);
+  transition:
+    transform 350ms var(--ease-spring),
+    box-shadow var(--t-press),
+    background-color var(--t-theme);
+}
+.pbtn:hover:not(:disabled) {
+  transform: translate(-2px, -3px) scale(1.04);
+}
+.pbtn:active:not(:disabled) {
+  transform: translate(0, 5px);
+  box-shadow:
+    0 -4px 0 0 var(--outline),
+    0 4px 0 0 var(--outline),
+    -4px 0 0 0 var(--outline),
+    4px 0 0 0 var(--outline),
+    inset 0 4px 0 0 color-mix(in srgb, var(--btn, var(--primary)) 75%, var(--outline)),
+    0 5px 0 0 var(--deep);
+}
+.pbtn:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+.pbtn.sm {
+  font-size: 10px;
+  padding: 12px 14px 10px;
+}
+
+/* Blinking ▶ */
+.blink {
+  display: inline-block;
+  animation: blink 1s steps(2, start) infinite;
+}
+@keyframes blink {
+  to {
+    visibility: hidden;
+  }
+}
+
+/* 3D flip helpers */
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+
+/* ── Page turn (components/PageLeaf.jsx) ──
+   The sheet is hinged on the centre of the 16px spine, so it lands exactly on the opposite page. */
+.leaf {
+  will-change: transform;
+  animation-duration: var(--t-turn);
+  animation-timing-function: cubic-bezier(0.45, 0.05, 0.3, 1);
+  animation-fill-mode: both;
+}
+.leaf-next { transform-origin: -8px 50%; animation-name: leaf-next; }
+.leaf-prev { transform-origin: calc(100% + 8px) 50%; animation-name: leaf-prev; }
+.leaf-single-next { transform-origin: 0 50%; animation-name: leaf-single-next; }
+.leaf-single-prev { transform-origin: 0 50%; animation-name: leaf-single-prev; }
+@keyframes leaf-next { from { transform: rotateY(0deg); } to { transform: rotateY(-180deg); } }
+@keyframes leaf-prev { from { transform: rotateY(0deg); } to { transform: rotateY(180deg); } }
+/* phone: the sheet would swing outside the book, so it fades out / in at the halfway point */
+@keyframes leaf-single-next { 0% { transform: rotateY(0deg); opacity: 1; } 49% { opacity: 1; } 50% { opacity: 0; } 100% { transform: rotateY(-180deg); opacity: 0; } }
+@keyframes leaf-single-prev { 0% { transform: rotateY(-180deg); opacity: 0; } 50% { opacity: 0; } 51% { opacity: 1; } 100% { transform: rotateY(0deg); opacity: 1; } }
+.leaf-shade {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  border-radius: 12px;
+  animation: var(--t-turn) ease-in-out both;
+}
+.leaf-shade-front { animation-name: shade-front; }
+.leaf-shade-back { animation-name: shade-back; }
+@keyframes shade-front { 0% { opacity: 0; } 50%, 100% { opacity: 1; } }
+@keyframes shade-back { 0%, 50% { opacity: 1; } 100% { opacity: 0; } }
+
+/* Calm everything down for people who ask for it */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  .pbtn:hover:not(:disabled) {
+    transform: none;
+  }
+}
