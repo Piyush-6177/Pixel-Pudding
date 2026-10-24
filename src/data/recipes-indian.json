@@ -1,0 +1,3435 @@
+[
+  {
+    "slug": "kanda-poha",
+    "name": "Kanda Poha",
+    "category": "Breakfast",
+    "cuisine": "Indian",
+    "region": "Maharashtra",
+    "diet": "vegan",
+    "spice": 1,
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 3,
+    "tag": "Maharashtrian · 25 min",
+    "intro": "The Mumbai breakfast that takes fifteen minutes and tastes like a slow Sunday. Flattened rice, softened just enough, tossed with mustard seeds, curry leaves, turmeric and sweet fried onion.",
+    "ingredients": [
+      {
+        "name": "thick poha (flattened rice)",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "onion, finely chopped",
+        "amount": 1,
+        "unit": "large"
+      },
+      {
+        "name": "potato, small dice",
+        "amount": 1,
+        "unit": "medium",
+        "note": "optional but traditional"
+      },
+      {
+        "name": "green chillies, slit",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "curry leaves",
+        "amount": 10,
+        "unit": ""
+      },
+      {
+        "name": "mustard seeds",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "peanuts",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "sugar",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "oil",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "fresh coriander, chopped",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "grated fresh coconut",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "to serve"
+      }
+    ],
+    "steps": [
+      "Put the poha in a sieve and rinse under running water for about 20 seconds, just until every flake is wet. Do not soak. Leave it to sit and soften for 10 minutes while you prep.",
+      "Sprinkle the salt, sugar and turmeric over the softened poha and gently toss with your fingers so every flake turns pale yellow.",
+      "Heat the oil in a wide pan over medium heat. Fry the peanuts until golden, about 2 minutes, and lift them out.",
+      "Add the mustard seeds to the same oil. When they finish crackling, add the curry leaves and green chillies and let them sizzle for 10 seconds.",
+      "Add the onion and cook until soft and translucent, 4 to 5 minutes. If using potato, add it now with a splash of water, cover, and cook until tender, about 6 minutes.",
+      "Add the poha and the peanuts. Fold gently from the bottom with a flat spatula. Cover and let it steam on low heat for 2 minutes.",
+      "Turn off the heat. Add the lemon juice and coriander and fold once more. Serve hot with grated coconut on top."
+    ],
+    "tips": [
+      "Thin poha turns to mush. Look for thick (jada) poha.",
+      "If the poha looks dry after resting, flick a few drops of water over it before adding to the pan.",
+      "A few pomegranate seeds or sev on top is the Indore way."
+    ],
+    "readMore": [
+      "Madhur Jaffrey, Indian Cookery"
+    ],
+    "allergens": {
+      "contains": [
+        "mustard",
+        "peanuts"
+      ],
+      "optional": [],
+      "check": [],
+      "swaps": [
+        "Leave out the mustard (seeds or oil); use cumin seeds or another oil.",
+        "Leave out the peanuts or use roasted chana dal for crunch."
+      ]
+    }
+  },
+  {
+    "slug": "masala-dosa",
+    "name": "Masala Dosa",
+    "category": "Breakfast",
+    "cuisine": "Indian",
+    "region": "Karnataka",
+    "diet": "vegan",
+    "spice": 1,
+    "prepTime": 30,
+    "cookTime": 40,
+    "restTime": 900,
+    "servings": 4,
+    "tag": "South Indian · overnight batter",
+    "intro": "Crisp, lacy and golden, wrapped around a soft turmeric potato filling. The batter needs an overnight ferment, so start the day before; the dosa itself takes two minutes a piece.",
+    "ingredients": [
+      {
+        "name": "idli rice (or short-grain parboiled rice)",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "urad dal (split black gram, skinned)",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "fenugreek (methi) seeds",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "poha (flattened rice)",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "salt",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "potatoes, boiled and roughly mashed",
+        "amount": 4,
+        "unit": "medium"
+      },
+      {
+        "name": "onion, sliced",
+        "amount": 1,
+        "unit": "large"
+      },
+      {
+        "name": "green chillies, chopped",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "ginger, grated",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "mustard seeds",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "chana dal",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "curry leaves",
+        "amount": 10,
+        "unit": ""
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "oil, plus more for the pan",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "ghee or oil, for cooking the dosas",
+        "amount": 4,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Wash the rice, dal, fenugreek and poha together until the water runs clear. Soak in plenty of water for 5 to 6 hours.",
+      "Drain and grind in a wet grinder or strong blender with about 1 cup of fresh water, in batches, to a smooth, slightly grainy batter the thickness of pancake batter.",
+      "Pour into a large bowl (it will double), add the salt and mix with your hand for a minute. Cover loosely and leave in a warm spot for 10 to 14 hours until it is bubbly and smells pleasantly sour.",
+      "For the filling, heat 3 tbsp oil. Pop the mustard seeds, add the chana dal and fry until golden, then the curry leaves, chillies, ginger and onion. Cook until the onion is soft.",
+      "Add the turmeric, a splash of water and the potatoes with a teaspoon of salt. Mash a little and cook for 3 minutes. Keep warm.",
+      "Heat a cast-iron tawa or non-stick pan over medium-high heat. Sprinkle water: it should sizzle and vanish. Rub the pan with a halved onion dipped in oil.",
+      "Pour a ladle of batter in the centre and spread outwards in quick spirals with the back of the ladle into a thin circle. Drizzle a teaspoon of ghee around the edge.",
+      "Cook until the underside is deep golden and the top looks dry, about 2 minutes. Spread 2 spoons of filling on one half, fold over, and lift off. Repeat.",
+      "Serve at once with coconut chutney and sambar."
+    ],
+    "tips": [
+      "Fermentation is slower in cold kitchens. Put the bowl in an oven with just the light on.",
+      "Too-thick batter makes soft dosas. Thin with a little water until it flows off the ladle.",
+      "The first dosa is always the test dosa. Adjust the heat after it."
+    ],
+    "readMore": [
+      "Chandra Padmanabhan, Dakshin"
+    ],
+    "allergens": {
+      "contains": [
+        "mustard"
+      ],
+      "optional": [
+        "milk"
+      ],
+      "check": [],
+      "swaps": [
+        "Leave out the mustard (seeds or oil); use cumin seeds or another oil.",
+        "Use oil or vegan butter instead of ghee."
+      ]
+    }
+  },
+  {
+    "slug": "aloo-paratha",
+    "name": "Aloo Paratha",
+    "category": "Breakfast",
+    "cuisine": "Indian",
+    "region": "Punjab",
+    "diet": "veg",
+    "spice": 1,
+    "prepTime": 25,
+    "cookTime": 25,
+    "restTime": 20,
+    "servings": 4,
+    "tag": "Punjabi · 50 min",
+    "intro": "Flaky wholewheat flatbread stuffed with spiced mashed potato, cooked on a hot tawa with ghee until blistered and golden. Serve with a spoon of white butter, curd and pickle.",
+    "ingredients": [
+      {
+        "name": "wholewheat flour (atta)",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "water, approximately",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "salt",
+        "amount": 1.5,
+        "unit": "tsp",
+        "note": "divided"
+      },
+      {
+        "name": "potatoes, boiled, peeled and mashed",
+        "amount": 4,
+        "unit": "medium"
+      },
+      {
+        "name": "onion, very finely chopped",
+        "amount": 1,
+        "unit": "small"
+      },
+      {
+        "name": "green chillies, finely chopped",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "ginger, grated",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "coriander seeds, crushed",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "garam masala",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "amchur (dried mango powder)",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "fresh coriander, chopped",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "ghee",
+        "amount": 4,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix the flour with half a teaspoon of salt. Add water a little at a time and knead to a soft, smooth dough, about 5 minutes. Rub with a little oil, cover and rest for 20 minutes.",
+      "Mix the mashed potato with the onion, chillies, ginger, crushed coriander seeds, chilli powder, garam masala, amchur, fresh coriander and the remaining salt. The mash should be dry and lump-free.",
+      "Divide the dough and the filling into 8 portions each. Roll a dough ball into a 10 cm circle, place a ball of filling in the centre, and gather the edges up and over to seal like a pouch. Pinch off any extra dough.",
+      "Flatten the pouch gently with your palm, dust with flour and roll out evenly to about 18 cm, turning as you roll so the filling spreads without tearing.",
+      "Heat a tawa or heavy pan over medium-high heat. Lay the paratha on it and cook for 1 minute until bubbles appear. Flip, spread a teaspoon of ghee, cook 1 minute, flip again and ghee the other side.",
+      "Press the edges with a spatula and cook until both sides have golden-brown spots, about 3 minutes in total. Keep warm wrapped in a cloth while you cook the rest.",
+      "Serve hot with a knob of butter, thick curd and mango pickle."
+    ],
+    "tips": [
+      "Cold potatoes mash drier. Boil them ahead if you can.",
+      "If the filling pokes through, you rolled too hard. Roll from the centre out with light pressure.",
+      "Gobi (cauliflower) and paneer fillings work the same way."
+    ],
+    "readMore": [
+      "Pushpesh Pant, India: The Cookbook"
+    ],
+    "allergens": {
+      "contains": [
+        "gluten",
+        "milk"
+      ],
+      "optional": [],
+      "check": [
+        "Ready-made spice blends can contain mustard, wheat or traces of nuts. Check the pack."
+      ],
+      "swaps": [
+        "Use a gluten-free flour blend; expect a more delicate texture.",
+        "Use oil or vegan butter instead of ghee."
+      ]
+    }
+  },
+  {
+    "slug": "rava-upma",
+    "name": "Rava Upma",
+    "category": "Breakfast",
+    "cuisine": "Indian",
+    "region": "South India",
+    "diet": "veg",
+    "spice": 1,
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 3,
+    "tag": "South Indian · 25 min",
+    "intro": "Roasted semolina cooked into a soft, savoury porridge with ginger, chillies, cashews and a mustard-seed tadka. Humble, warm and ready before the tea is cold.",
+    "ingredients": [
+      {
+        "name": "fine semolina (rava / sooji)",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "water",
+        "amount": 2.5,
+        "unit": "cups"
+      },
+      {
+        "name": "onion, finely chopped",
+        "amount": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "green chillies, chopped",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "ginger, finely chopped",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "carrot, small dice",
+        "amount": 1,
+        "unit": "small",
+        "note": "optional"
+      },
+      {
+        "name": "mustard seeds",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "urad dal",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "chana dal",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "cashews, halved",
+        "amount": 10,
+        "unit": ""
+      },
+      {
+        "name": "curry leaves",
+        "amount": 8,
+        "unit": ""
+      },
+      {
+        "name": "ghee",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 2,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Dry-roast the semolina in a wide pan over medium heat, stirring constantly, until it smells nutty and turns a shade darker, 5 to 6 minutes. Tip into a bowl.",
+      "In the same pan heat the oil and 1 tbsp ghee. Pop the mustard seeds, then fry the urad dal, chana dal and cashews until golden.",
+      "Add the curry leaves, chillies, ginger and onion. Cook until the onion softens, 3 minutes. Add the carrot and cook 2 minutes more.",
+      "Pour in the water and salt. Bring to a rolling boil.",
+      "Lower the heat and add the roasted semolina in a thin steady stream with one hand while stirring continuously with the other, so no lumps form.",
+      "Cover and cook on the lowest heat for 3 minutes until the water is absorbed and the upma is fluffy.",
+      "Turn off the heat, add the remaining ghee and lemon juice, fluff with a fork and serve with coconut chutney or a spoon of sugar on the side."
+    ],
+    "tips": [
+      "Roasting the rava properly is what stops it from going gluey.",
+      "Water ratio is 1 : 2.5 for soft upma; use 1 : 2 if you like it drier."
+    ],
+    "readMore": [
+      "Chandra Padmanabhan, Dakshin"
+    ],
+    "allergens": {
+      "contains": [
+        "gluten",
+        "mustard",
+        "tree nuts",
+        "milk"
+      ],
+      "optional": [],
+      "check": [],
+      "swaps": [
+        "Use fine rice rava or millet rava instead of semolina.",
+        "Leave out the mustard (seeds or oil); use cumin seeds or another oil.",
+        "Nuts here are a garnish or optional: just leave them out (pumpkin or sunflower seeds add crunch).",
+        "Use oil or vegan butter instead of ghee."
+      ]
+    }
+  },
+  {
+    "slug": "besan-chilla",
+    "name": "Besan Chilla",
+    "category": "Breakfast",
+    "cuisine": "Indian",
+    "region": "North India",
+    "diet": "vegan",
+    "spice": 1,
+    "prepTime": 10,
+    "cookTime": 15,
+    "restTime": 10,
+    "servings": 2,
+    "tag": "North Indian · 25 min",
+    "intro": "A savoury chickpea-flour pancake studded with onion, tomato and green chilli. Protein-rich, naturally gluten-free and the fastest proper breakfast in the Indian kitchen.",
+    "ingredients": [
+      {
+        "name": "besan (chickpea flour)",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "water",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "onion, finely chopped",
+        "amount": 1,
+        "unit": "small"
+      },
+      {
+        "name": "tomato, deseeded and finely chopped",
+        "amount": 1,
+        "unit": "small"
+      },
+      {
+        "name": "green chilli, finely chopped",
+        "amount": 1,
+        "unit": ""
+      },
+      {
+        "name": "fresh coriander, chopped",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "ginger, grated",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "ajwain (carom seeds)",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 0.75,
+        "unit": "tsp"
+      },
+      {
+        "name": "oil",
+        "amount": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Whisk the besan with the water until completely smooth and pourable like thin pancake batter. Rest for 10 minutes.",
+      "Stir in the onion, tomato, chilli, coriander, ginger, turmeric, chilli powder, ajwain and salt.",
+      "Heat a non-stick or cast-iron pan over medium heat and brush with oil.",
+      "Pour a ladle of batter and spread it gently in a circle about 15 cm wide. Drizzle half a teaspoon of oil around the edge.",
+      "Cook for 2 to 3 minutes until the edges lift and the bottom is golden. Flip and cook the other side for 2 minutes.",
+      "Serve hot with green chutney, ketchup or a bowl of curd."
+    ],
+    "tips": [
+      "Add a tablespoon of rice flour for extra crispness.",
+      "Grated paneer or cheese folded inside before flipping makes it a stuffed chilla."
+    ],
+    "readMore": [
+      "Madhur Jaffrey, Indian Cookery"
+    ],
+    "allergens": {
+      "contains": [],
+      "optional": [],
+      "check": [],
+      "swaps": []
+    }
+  },
+  {
+    "slug": "rajma-chawal",
+    "name": "Rajma Chawal",
+    "category": "Lunch",
+    "cuisine": "Indian",
+    "region": "Punjab / Jammu",
+    "diet": "vegan",
+    "spice": 2,
+    "prepTime": 15,
+    "cookTime": 50,
+    "restTime": 480,
+    "servings": 4,
+    "tag": "Punjabi · soak overnight",
+    "intro": "Red kidney beans simmered slowly in a thick onion-tomato-ginger gravy until they almost melt, ladled over steaming rice. The north Indian Sunday lunch.",
+    "ingredients": [
+      {
+        "name": "rajma (red kidney beans), dried",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "onions, finely chopped",
+        "amount": 2,
+        "unit": "medium"
+      },
+      {
+        "name": "tomatoes, pureed",
+        "amount": 3,
+        "unit": "medium"
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1.5,
+        "unit": "tbsp"
+      },
+      {
+        "name": "green chillies, slit",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "bay leaf",
+        "amount": 1,
+        "unit": ""
+      },
+      {
+        "name": "coriander powder",
+        "amount": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "garam masala",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "kasuri methi (dried fenugreek leaves)",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "oil or ghee",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "fresh coriander, chopped",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "basmati rice, cooked",
+        "amount": 2,
+        "unit": "cups",
+        "note": "to serve"
+      }
+    ],
+    "steps": [
+      "Soak the rajma in plenty of water for at least 8 hours or overnight. Drain.",
+      "Pressure-cook the beans with 4 cups of fresh water, the bay leaf and half the salt for 20 minutes after the first whistle (about 5 to 6 whistles), until a bean crushes easily between two fingers. Keep the cooking water.",
+      "Heat the oil in a heavy pot. Add the cumin seeds; when they sizzle, add the onions and cook on medium heat, stirring now and then, until deep golden brown, 12 to 15 minutes. Do not rush this.",
+      "Add the ginger-garlic paste and green chillies and cook for 2 minutes until the raw smell is gone.",
+      "Add the coriander powder, chilli powder and turmeric, stir for 30 seconds, then pour in the tomato puree. Cook until the masala thickens and oil appears at the edges, 8 to 10 minutes.",
+      "Add the beans with their cooking water and the remaining salt. Simmer uncovered on low heat for 20 minutes, mashing a few beans against the side of the pot to thicken the gravy.",
+      "Stir in the garam masala and crushed kasuri methi. Simmer 2 more minutes, then rest off the heat for 10 minutes.",
+      "Serve over hot rice with sliced onion, a wedge of lemon and fresh coriander."
+    ],
+    "tips": [
+      "Rajma tastes better the next day. Make extra.",
+      "No pressure cooker? Simmer the soaked beans for 1½ to 2 hours, topping up water as needed.",
+      "Jammu-style rajma uses a pinch of ground fennel and dried ginger. Try it."
+    ],
+    "readMore": [
+      "Pushpesh Pant, India: The Cookbook"
+    ],
+    "allergens": {
+      "contains": [],
+      "optional": [
+        "milk"
+      ],
+      "check": [
+        "Ready-made spice blends can contain mustard, wheat or traces of nuts. Check the pack."
+      ],
+      "swaps": [
+        "Use oil or vegan butter instead of ghee."
+      ]
+    }
+  },
+  {
+    "slug": "pindi-chole",
+    "name": "Pindi Chole",
+    "category": "Lunch",
+    "cuisine": "Indian",
+    "region": "Punjab",
+    "diet": "vegan",
+    "spice": 2,
+    "prepTime": 15,
+    "cookTime": 45,
+    "restTime": 480,
+    "servings": 4,
+    "tag": "Punjabi · dark & tangy",
+    "intro": "Dark, dry-ish chickpeas from Rawalpindi, cooked with tea for colour and finished with a sharp hit of amchur and roasted spices. Best with hot bhature or kulcha.",
+    "ingredients": [
+      {
+        "name": "dried chickpeas (kabuli chana)",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "black tea leaves, tied in muslin (or 2 tea bags)",
+        "amount": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "onion, finely chopped",
+        "amount": 1,
+        "unit": "large"
+      },
+      {
+        "name": "tomatoes, finely chopped",
+        "amount": 2,
+        "unit": "medium"
+      },
+      {
+        "name": "ginger, julienned",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "green chillies, slit",
+        "amount": 3,
+        "unit": ""
+      },
+      {
+        "name": "coriander seeds",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "dried red chillies",
+        "amount": 3,
+        "unit": ""
+      },
+      {
+        "name": "black cardamom",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "cinnamon stick",
+        "amount": 1,
+        "unit": "2 cm piece"
+      },
+      {
+        "name": "amchur (dried mango powder)",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "anardana (dried pomegranate seed) powder",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "optional"
+      },
+      {
+        "name": "black salt",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "oil",
+        "amount": 4,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Soak the chickpeas overnight. Drain, add 4 cups water, the tea bundle, black cardamom, cinnamon and 1 tsp salt. Pressure-cook for 25 minutes after the first whistle until very soft. Discard the tea and whole spices; keep the dark liquid.",
+      "Dry-roast the coriander seeds, cumin seeds and dried red chillies in a small pan until fragrant, 2 minutes. Cool and grind to a coarse powder.",
+      "Heat the oil in a wide kadai. Add the onion and cook until golden, 8 minutes. Add half the ginger and the green chillies and fry for 1 minute.",
+      "Add the tomatoes and cook until they break down and the oil separates, about 8 minutes.",
+      "Add the roasted spice powder, amchur, anardana, black salt and remaining salt. Stir for a minute.",
+      "Add the chickpeas with about 1 cup of their cooking liquid. Mash a handful against the side. Simmer, stirring, until the gravy clings to the chickpeas and darkens, 10 to 12 minutes.",
+      "Top with the remaining ginger julienne, a slit green chilli and a squeeze of lemon. Serve with bhature, kulcha or rice."
+    ],
+    "tips": [
+      "The tea gives the signature dark colour without affecting the taste.",
+      "Pindi chole is meant to be drier than restaurant chole. Reduce until almost no gravy pools."
+    ],
+    "readMore": [
+      "Madhur Jaffrey, Indian Cookery"
+    ],
+    "allergens": {
+      "contains": [],
+      "optional": [],
+      "check": [],
+      "swaps": []
+    }
+  },
+  {
+    "slug": "dal-tadka",
+    "name": "Dal Tadka with Jeera Rice",
+    "category": "Lunch",
+    "cuisine": "Indian",
+    "region": "North India",
+    "diet": "veg",
+    "spice": 2,
+    "prepTime": 10,
+    "cookTime": 35,
+    "servings": 4,
+    "tag": "Dhaba style · 45 min",
+    "intro": "Yellow lentils cooked soft, then crowned with a sizzling tadka of ghee, cumin, garlic and dried chillies poured over at the table. With cumin-scented rice, this is the meal every Indian kitchen falls back on.",
+    "ingredients": [
+      {
+        "name": "toor dal (split pigeon peas)",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "masoor dal (red lentils)",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "water",
+        "amount": 3.5,
+        "unit": "cups"
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "tomato, chopped",
+        "amount": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "onion, chopped",
+        "amount": 1,
+        "unit": "small"
+      },
+      {
+        "name": "green chilli, chopped",
+        "amount": 1,
+        "unit": ""
+      },
+      {
+        "name": "ginger, grated",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "ghee",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 1.5,
+        "unit": "tsp",
+        "note": "divided"
+      },
+      {
+        "name": "garlic, thinly sliced",
+        "amount": 5,
+        "unit": "cloves"
+      },
+      {
+        "name": "dried red chillies",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "asafoetida (hing)",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "fresh coriander, chopped",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "basmati rice",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "bay leaf",
+        "amount": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Rinse both dals until the water runs clear. Pressure-cook with the water, turmeric, tomato, onion, green chilli, ginger and salt for 4 whistles (about 12 minutes). Let the pressure drop, then whisk the dal smooth, adding hot water if it is thicker than a soup.",
+      "For the jeera rice, soak the basmati for 20 minutes and drain. Heat 1 tbsp ghee, sizzle 1 tsp cumin and the bay leaf, add the rice and stir gently for a minute. Add 2¼ cups water and ½ tsp salt, bring to a boil, cover, and cook on the lowest heat for 12 minutes. Rest 5 minutes, then fluff.",
+      "Keep the dal at a gentle simmer. Taste for salt.",
+      "Make the tadka just before serving. Heat the remaining 2 tbsp ghee in a small pan until shimmering. Add the remaining cumin seeds; when they crackle, add the garlic and fry until just golden.",
+      "Add the dried chillies and asafoetida, swirl for 5 seconds, turn off the heat and stir in the chilli powder (it will foam and colour the ghee red).",
+      "Pour the sizzling tadka over the dal at the table. Scatter with coriander and serve with the jeera rice, a lemon wedge and pickle."
+    ],
+    "tips": [
+      "Chilli powder burns in a second; always add it off the heat.",
+      "A second tadka of just ghee and chilli powder over the serving bowl is the dhaba 'double tadka'."
+    ],
+    "readMore": [
+      "Pushpesh Pant, India: The Cookbook"
+    ],
+    "allergens": {
+      "contains": [
+        "milk"
+      ],
+      "optional": [],
+      "check": [
+        "Hing (asafoetida) is usually blended with wheat flour. Buy a gluten-free one if needed."
+      ],
+      "swaps": [
+        "Use oil or vegan butter instead of ghee."
+      ]
+    }
+  },
+  {
+    "slug": "palak-paneer",
+    "name": "Palak Paneer",
+    "category": "Lunch",
+    "cuisine": "Indian",
+    "region": "Punjab",
+    "diet": "veg",
+    "spice": 1,
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "tag": "Punjabi · 40 min",
+    "intro": "Soft cubes of paneer in a bright green spinach gravy, kept vivid by blanching the leaves fast and cooling them faster. Mild, creamy and loved by children and grandparents alike.",
+    "ingredients": [
+      {
+        "name": "fresh spinach, washed",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "paneer, cut into 2 cm cubes",
+        "amount": 250,
+        "unit": "g"
+      },
+      {
+        "name": "onion, finely chopped",
+        "amount": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "tomato, finely chopped",
+        "amount": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "garlic, chopped",
+        "amount": 5,
+        "unit": "cloves"
+      },
+      {
+        "name": "ginger, chopped",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "green chillies",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "coriander powder",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "garam masala",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "kasuri methi",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "cream",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "ghee or butter",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1.25,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Bring a large pot of water to a boil. Drop in the spinach and green chillies for 90 seconds, then lift straight into a bowl of iced water. This keeps the colour.",
+      "Squeeze the spinach lightly and blend with the chillies and a splash of water to a smooth puree.",
+      "Heat the oil in a pan and lightly fry the paneer cubes until pale golden on two sides, 3 minutes. Drop them into warm salted water so they stay soft.",
+      "Heat the ghee in the same pan. Sizzle the cumin seeds, then cook the onion until golden, 6 minutes. Add the garlic and ginger and fry 1 minute.",
+      "Add the tomato and coriander powder and cook until the tomato is jammy, 5 minutes.",
+      "Pour in the spinach puree and salt. Simmer gently for 4 to 5 minutes; do not boil hard or the green dulls.",
+      "Drain the paneer and add it with the garam masala and crushed kasuri methi. Simmer 2 minutes, stir in the cream and serve with roti or jeera rice."
+    ],
+    "tips": [
+      "Overcooking spinach is what makes it taste bitter and look khaki. Keep it quick.",
+      "For a smoother restaurant texture, pass the puree through a sieve."
+    ],
+    "readMore": [
+      "Meera Sodha, Made in India"
+    ],
+    "allergens": {
+      "contains": [
+        "milk"
+      ],
+      "optional": [],
+      "check": [
+        "Ready-made spice blends can contain mustard, wheat or traces of nuts. Check the pack."
+      ],
+      "swaps": [
+        "Use firm tofu in place of paneer.",
+        "Swap cream for coconut cream or cashew cream.",
+        "Use oil or vegan butter instead of ghee.",
+        "Use a plant butter or neutral oil instead of butter."
+      ]
+    }
+  },
+  {
+    "slug": "sambar",
+    "name": "South Indian Sambar",
+    "category": "Lunch",
+    "cuisine": "Indian",
+    "region": "Tamil Nadu",
+    "diet": "vegan",
+    "spice": 2,
+    "prepTime": 15,
+    "cookTime": 35,
+    "servings": 4,
+    "tag": "Tamil · 50 min",
+    "intro": "Tangy, spicy lentil and vegetable stew soured with tamarind and thickened with toor dal. The everyday soul of the south, poured over rice or served beside idli and dosa.",
+    "ingredients": [
+      {
+        "name": "toor dal",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "tamarind, seedless",
+        "amount": 1,
+        "unit": "lemon-sized ball",
+        "note": "or 1½ tbsp paste"
+      },
+      {
+        "name": "mixed vegetables (drumstick, pumpkin, carrot, okra, shallots)",
+        "amount": 2.5,
+        "unit": "cups",
+        "note": "cut in chunks"
+      },
+      {
+        "name": "tomato, quartered",
+        "amount": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "sambar powder",
+        "amount": 2.5,
+        "unit": "tbsp"
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "jaggery",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "mustard seeds",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "fenugreek seeds",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "dried red chillies",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "curry leaves",
+        "amount": 12,
+        "unit": ""
+      },
+      {
+        "name": "asafoetida",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "sesame or coconut oil",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "fresh coriander, chopped",
+        "amount": 2,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Soak the tamarind in 1 cup of hot water for 15 minutes, squeeze well and strain. Discard the pulp.",
+      "Pressure-cook the toor dal with 2 cups water and the turmeric for 4 whistles until completely soft. Mash smooth.",
+      "In a pot, simmer the vegetables and tomato in 2 cups of water with half the salt until just tender, 10 to 12 minutes. Add harder vegetables first and okra last.",
+      "Pour in the tamarind water, sambar powder and jaggery. Boil for 5 minutes so the raw tamarind smell disappears.",
+      "Add the mashed dal and the remaining salt. Thin with hot water to a pourable consistency and simmer 8 to 10 minutes, stirring now and then.",
+      "For the tadka, heat the oil in a small pan. Pop the mustard seeds, then add the fenugreek, dried chillies, curry leaves and asafoetida. Pour over the sambar immediately.",
+      "Cover for 5 minutes so the flavours settle, then scatter with coriander. Serve with rice, idli or dosa."
+    ],
+    "tips": [
+      "Drumstick (moringa) is what gives sambar its signature flavour. Add it if you can find it.",
+      "Every household's sambar powder is different. If yours is mild, add a pinch of chilli powder."
+    ],
+    "readMore": [
+      "Chandra Padmanabhan, Dakshin"
+    ],
+    "allergens": {
+      "contains": [
+        "mustard"
+      ],
+      "optional": [
+        "sesame"
+      ],
+      "check": [
+        "Ready-made spice blends can contain mustard, wheat or traces of nuts. Check the pack.",
+        "Hing (asafoetida) is usually blended with wheat flour. Buy a gluten-free one if needed."
+      ],
+      "swaps": [
+        "Leave out the mustard (seeds or oil); use cumin seeds or another oil.",
+        "Leave out the sesame seeds or oil."
+      ]
+    }
+  },
+  {
+    "slug": "butter-chicken",
+    "name": "Butter Chicken",
+    "category": "Dinner",
+    "cuisine": "Indian",
+    "region": "Delhi",
+    "diet": "non-veg",
+    "spice": 1,
+    "prepTime": 20,
+    "cookTime": 40,
+    "restTime": 120,
+    "servings": 4,
+    "tag": "Delhi · marinate 2 h",
+    "intro": "Murgh makhani, the Delhi classic: charred tandoori-style chicken folded into a silky tomato-butter gravy perfumed with kasuri methi. Rich without being heavy, and gentle on spice.",
+    "ingredients": [
+      {
+        "name": "boneless chicken thighs, in 4 cm pieces",
+        "amount": 700,
+        "unit": "g"
+      },
+      {
+        "name": "thick yogurt",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "divided"
+      },
+      {
+        "name": "Kashmiri red chilli powder",
+        "amount": 2,
+        "unit": "tsp",
+        "note": "divided"
+      },
+      {
+        "name": "garam masala",
+        "amount": 1.5,
+        "unit": "tsp",
+        "note": "divided"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "tomatoes, roughly chopped",
+        "amount": 6,
+        "unit": "medium"
+      },
+      {
+        "name": "cashews",
+        "amount": 12,
+        "unit": ""
+      },
+      {
+        "name": "butter",
+        "amount": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "oil",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "green cardamom",
+        "amount": 3,
+        "unit": ""
+      },
+      {
+        "name": "cinnamon stick",
+        "amount": 1,
+        "unit": "2 cm piece"
+      },
+      {
+        "name": "sugar or honey",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "kasuri methi",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "cream",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "salt",
+        "amount": 1.5,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Marinate the chicken with the yogurt, 1 tbsp ginger-garlic paste, 1 tsp chilli powder, ½ tsp garam masala, lemon juice and ½ tsp salt for at least 2 hours, ideally overnight.",
+      "Cook the chicken on a very hot grill pan or under the grill, turning once, until charred at the edges and just cooked, 8 to 10 minutes. Set aside with its juices.",
+      "For the gravy, melt 2 tbsp butter with the oil in a heavy pot. Add the cardamom and cinnamon, then the remaining ginger-garlic paste, and fry 1 minute.",
+      "Add the tomatoes, cashews, remaining chilli powder and 1 tsp salt. Cover and cook on medium heat until the tomatoes collapse completely, 15 minutes.",
+      "Remove the cinnamon. Blend the mixture until completely smooth and pass it through a sieve back into the pot. This is the step that makes it silky.",
+      "Simmer the puree with the sugar for 5 minutes. Add the chicken and its juices, the remaining butter and garam masala, and simmer 5 minutes more.",
+      "Crush the kasuri methi between your palms into the pot, stir in the cream and warm through without boiling. Serve with naan or jeera rice."
+    ],
+    "tips": [
+      "Kashmiri chilli gives the deep red colour with very little heat.",
+      "The sieve is not optional if you want the restaurant texture.",
+      "Paneer makhani: swap the chicken for 400 g paneer, skip the marinade, add the cubes at step 6."
+    ],
+    "readMore": [
+      "Pushpesh Pant, India: The Cookbook"
+    ],
+    "allergens": {
+      "contains": [
+        "milk",
+        "tree nuts"
+      ],
+      "optional": [],
+      "check": [
+        "Ready-made spice blends can contain mustard, wheat or traces of nuts. Check the pack."
+      ],
+      "swaps": [
+        "Use a plant yogurt (coconut or soy) instead of dairy yogurt.",
+        "Nuts here are a garnish or optional: just leave them out (pumpkin or sunflower seeds add crunch).",
+        "Use a plant butter or neutral oil instead of butter.",
+        "Swap cream for coconut cream or cashew cream."
+      ]
+    }
+  },
+  {
+    "slug": "chicken-biryani",
+    "name": "Hyderabadi Chicken Dum Biryani",
+    "category": "Dinner",
+    "cuisine": "Indian",
+    "region": "Hyderabad",
+    "diet": "non-veg",
+    "spice": 2,
+    "prepTime": 40,
+    "cookTime": 60,
+    "restTime": 240,
+    "servings": 6,
+    "tag": "Hyderabadi · weekend project",
+    "intro": "Kacchi-style dum biryani: raw marinated chicken layered under par-cooked basmati, sealed and slow-steamed until the rice drinks the juices. A weekend project that fills the whole house with saffron and fried onion.",
+    "ingredients": [
+      {
+        "name": "chicken, bone-in pieces",
+        "amount": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "aged basmati rice",
+        "amount": 3,
+        "unit": "cups"
+      },
+      {
+        "name": "onions, thinly sliced",
+        "amount": 4,
+        "unit": "large"
+      },
+      {
+        "name": "thick yogurt",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "green chillies, slit",
+        "amount": 6,
+        "unit": ""
+      },
+      {
+        "name": "red chilli powder",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "garam masala",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "fresh mint leaves",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "fresh coriander, chopped",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "oil, for frying onions",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "ghee",
+        "amount": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "saffron, soaked in ¼ cup warm milk",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "whole spices: bay leaves 2, green cardamom 5, cloves 5, cinnamon 2 sticks, star anise 1, shahi jeera 1 tsp",
+        "amount": 1,
+        "unit": "set"
+      },
+      {
+        "name": "salt",
+        "amount": 3,
+        "unit": "tbsp",
+        "note": "most goes in the rice water"
+      },
+      {
+        "name": "wholewheat dough or foil, to seal",
+        "amount": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Fry the sliced onions in the oil over medium heat, stirring often, until evenly deep golden and crisp, 20 to 25 minutes. Drain on paper. Keep 3 tbsp of the onion oil.",
+      "Marinate the chicken with the yogurt, ginger-garlic paste, chillies, chilli powder, turmeric, garam masala, half the mint and coriander, half the fried onions, lemon juice, the reserved onion oil, 2 tbsp ghee and 1½ tsp salt. Rest 4 hours or overnight.",
+      "Wash the rice gently until the water runs clear and soak for 30 minutes. Drain.",
+      "Bring 3 litres of water to a boil with the whole spices and the remaining salt (it should taste like the sea). Add the rice and cook until 70 % done, about 5 to 6 minutes: a grain should break with a slight bite. Drain immediately.",
+      "Spread the marinated chicken in a single layer in a heavy, wide pot. Layer the rice on top. Scatter the remaining fried onions, mint, coriander, the saffron milk and the remaining ghee over the rice.",
+      "Seal the lid with a rope of dough or a tight double layer of foil, then the lid. Cook on high heat for 5 minutes, then place the pot on a tawa (griddle) over the lowest heat and cook for 35 to 40 minutes.",
+      "Rest off the heat, still sealed, for 15 minutes. Open at the table. Lift from the bottom with a flat spoon so each serving has chicken, saffron rice and white rice.",
+      "Serve with mirchi ka salan or cucumber raita."
+    ],
+    "tips": [
+      "The rice must be undercooked at step 4; it finishes in the steam. Overcooked rice turns to porridge.",
+      "The tawa under the pot stops the bottom from catching.",
+      "Chicken thighs and drumsticks stay juicier than breast under dum."
+    ],
+    "readMore": [
+      "Pratibha Karan, Biryani"
+    ],
+    "allergens": {
+      "contains": [
+        "milk"
+      ],
+      "optional": [
+        "gluten"
+      ],
+      "check": [
+        "Ready-made spice blends can contain mustard, wheat or traces of nuts. Check the pack."
+      ],
+      "swaps": [
+        "Use a plant yogurt (coconut or soy) instead of dairy yogurt.",
+        "Use oil or vegan butter instead of ghee.",
+        "Oat or soy milk works in place of dairy milk."
+      ]
+    }
+  },
+  {
+    "slug": "kadai-paneer",
+    "name": "Kadai Paneer",
+    "category": "Dinner",
+    "cuisine": "Indian",
+    "region": "North India",
+    "diet": "veg",
+    "spice": 2,
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "tag": "North Indian · 40 min",
+    "intro": "Paneer and chunky capsicum tossed in a semi-dry tomato masala with freshly crushed coriander seeds and dried chillies, the kadai masala that gives this dish its smoky punch.",
+    "ingredients": [
+      {
+        "name": "paneer, in 2.5 cm cubes",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "capsicum (green pepper), in 2.5 cm squares",
+        "amount": 1,
+        "unit": "large"
+      },
+      {
+        "name": "onion, in 2.5 cm squares, layers separated",
+        "amount": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "onion, finely chopped",
+        "amount": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "tomatoes, pureed",
+        "amount": 4,
+        "unit": "medium"
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "ginger, julienned",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "coriander seeds",
+        "amount": 1.5,
+        "unit": "tbsp"
+      },
+      {
+        "name": "dried red chillies",
+        "amount": 4,
+        "unit": ""
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "garam masala",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "kasuri methi",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "oil",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "butter",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "cream",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Dry-roast the coriander seeds and 3 dried chillies for 2 minutes until fragrant. Cool and crush coarsely in a mortar. This is the kadai masala.",
+      "Heat 1 tbsp oil in a kadai or wok on high heat. Stir-fry the capsicum and onion squares for 2 minutes until blistered but still crunchy. Remove.",
+      "In the same pan, heat the remaining oil. Sizzle the cumin seeds and the last dried chilli, then add the chopped onion and cook until golden, 6 minutes.",
+      "Add the ginger-garlic paste and fry 1 minute. Add the turmeric and the tomato puree, and cook until the masala thickens and oil separates, 8 to 10 minutes.",
+      "Stir in the crushed kadai masala, salt and butter. Add a splash of water if too thick.",
+      "Add the paneer, capsicum and onion. Toss gently to coat and cook 3 minutes so the paneer warms through but stays soft.",
+      "Finish with garam masala, crushed kasuri methi, the ginger julienne and cream if using. Serve with naan or roti."
+    ],
+    "tips": [
+      "Soak the paneer cubes in warm salted water for 10 minutes before cooking for the softest texture.",
+      "The vegetables should stay crunchy; add them right at the end."
+    ],
+    "readMore": [
+      "Pushpesh Pant, India: The Cookbook"
+    ],
+    "allergens": {
+      "contains": [
+        "milk"
+      ],
+      "optional": [],
+      "check": [
+        "Ready-made spice blends can contain mustard, wheat or traces of nuts. Check the pack."
+      ],
+      "swaps": [
+        "Use firm tofu in place of paneer.",
+        "Use a plant butter or neutral oil instead of butter.",
+        "Swap cream for coconut cream or cashew cream."
+      ]
+    }
+  },
+  {
+    "slug": "kerala-fish-curry",
+    "name": "Kerala Fish Curry",
+    "category": "Dinner",
+    "cuisine": "Indian",
+    "region": "Kerala",
+    "diet": "non-veg",
+    "spice": 3,
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "tag": "Kerala · 40 min",
+    "intro": "Meen curry the way it is made along the Malabar coast: fish simmered in a red coconut-milk gravy soured with kudampuli (Malabar tamarind) and finished with curry leaves fried in coconut oil.",
+    "ingredients": [
+      {
+        "name": "firm white fish steaks (kingfish, seer or pomfret)",
+        "amount": 600,
+        "unit": "g"
+      },
+      {
+        "name": "kudampuli (Malabar tamarind) pieces",
+        "amount": 3,
+        "unit": "",
+        "note": "or 1 tbsp tamarind paste"
+      },
+      {
+        "name": "shallots, sliced",
+        "amount": 10,
+        "unit": ""
+      },
+      {
+        "name": "garlic, sliced",
+        "amount": 6,
+        "unit": "cloves"
+      },
+      {
+        "name": "ginger, julienned",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "green chillies, slit",
+        "amount": 3,
+        "unit": ""
+      },
+      {
+        "name": "tomato, chopped",
+        "amount": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "Kashmiri red chilli powder",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "coriander powder",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "fenugreek seeds",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "mustard seeds",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "curry leaves",
+        "amount": 2,
+        "unit": "sprigs"
+      },
+      {
+        "name": "thick coconut milk",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "thin coconut milk (or water)",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "coconut oil",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1.25,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Soak the kudampuli in ½ cup warm water for 15 minutes. Rub the fish with ¼ tsp turmeric and a pinch of salt.",
+      "Mix the chilli powder, coriander powder and remaining turmeric with 3 tbsp water into a paste.",
+      "Heat 2 tbsp coconut oil in a clay pot or wide pan. Pop the mustard seeds, add the fenugreek and one sprig of curry leaves, then the shallots, garlic, ginger and green chillies. Fry until the shallots soften, 4 minutes.",
+      "Add the spice paste and fry on low heat for 2 minutes until the oil turns red. Add the tomato and cook 2 minutes.",
+      "Pour in the thin coconut milk, the kudampuli with its soaking water, and the salt. Bring to a boil and simmer 5 minutes.",
+      "Slide in the fish pieces in a single layer. Do not stir; swirl the pan instead. Simmer gently for 8 to 10 minutes until the fish is just cooked.",
+      "Lower the heat, pour in the thick coconut milk and heat through without boiling. Turn off.",
+      "Heat the remaining coconut oil in a tiny pan, crackle the second sprig of curry leaves and pour over the curry. Rest for 10 minutes before serving with matta rice or appam."
+    ],
+    "tips": [
+      "Fish curry is better after a few hours' rest, and better still the next day.",
+      "Kudampuli has a smoky sourness unlike regular tamarind; look for it in Kerala stores or online."
+    ],
+    "readMore": [
+      "Lathika George, The Suriani Kitchen"
+    ],
+    "allergens": {
+      "contains": [
+        "fish",
+        "mustard"
+      ],
+      "optional": [],
+      "check": [],
+      "swaps": [
+        "Leave out the mustard (seeds or oil); use cumin seeds or another oil."
+      ]
+    }
+  },
+  {
+    "slug": "dal-makhani",
+    "name": "Dal Makhani",
+    "category": "Dinner",
+    "cuisine": "Indian",
+    "region": "Punjab",
+    "diet": "veg",
+    "spice": 1,
+    "prepTime": 15,
+    "cookTime": 150,
+    "restTime": 480,
+    "servings": 6,
+    "tag": "Dhaba style · slow",
+    "intro": "Whole black lentils and kidney beans simmered for hours with butter and cream until they turn glossy and almost pudding-like. The longer it cooks, the better it gets. Make it on a lazy day.",
+    "ingredients": [
+      {
+        "name": "whole black urad dal (sabut urad)",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "rajma (red kidney beans)",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "water",
+        "amount": 6,
+        "unit": "cups"
+      },
+      {
+        "name": "onion, finely chopped",
+        "amount": 1,
+        "unit": "large"
+      },
+      {
+        "name": "tomatoes, pureed",
+        "amount": 4,
+        "unit": "medium"
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Kashmiri red chilli powder",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "garam masala",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "kasuri methi",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "butter",
+        "amount": 6,
+        "unit": "tbsp"
+      },
+      {
+        "name": "cream",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "ghee",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "salt",
+        "amount": 2,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Soak the urad dal and rajma together overnight. Drain and rinse.",
+      "Pressure-cook with the water and 1 tsp salt for 30 minutes after the first whistle, until the lentils are completely soft and some have split. Mash lightly with the back of a ladle.",
+      "In a heavy pot, melt 4 tbsp butter with the ghee. Sizzle the cumin seeds, add the onion and cook until golden, 8 minutes. Add the ginger-garlic paste and fry 2 minutes.",
+      "Add the chilli powder and tomato puree. Cook on medium heat until thick and glossy and the fat separates, 12 to 15 minutes.",
+      "Add the cooked lentils with all their liquid and the remaining salt. Bring to a simmer.",
+      "Cook on the lowest heat, uncovered, for 1½ to 2 hours, stirring every 10 to 15 minutes and scraping the bottom. Add hot water whenever it gets thicker than a thick soup. The dal will darken and turn creamy.",
+      "Stir in the remaining butter, the cream, garam masala and crushed kasuri methi. Simmer 10 more minutes.",
+      "Serve with a swirl of cream and a small knob of butter, with naan or jeera rice."
+    ],
+    "tips": [
+      "Time is the secret ingredient. Two hours of slow bubbling beats any shortcut.",
+      "Restaurants finish with a smoky dhungar: place a piece of hot charcoal in a small bowl in the pot, drop ghee on it, cover for 2 minutes."
+    ],
+    "readMore": [
+      "Madhur Jaffrey, Indian Cookery"
+    ],
+    "allergens": {
+      "contains": [
+        "milk"
+      ],
+      "optional": [],
+      "check": [
+        "Ready-made spice blends can contain mustard, wheat or traces of nuts. Check the pack."
+      ],
+      "swaps": [
+        "Use a plant butter or neutral oil instead of butter.",
+        "Swap cream for coconut cream or cashew cream.",
+        "Use oil or vegan butter instead of ghee."
+      ]
+    }
+  },
+  {
+    "slug": "baingan-bharta",
+    "name": "Baingan Bharta",
+    "category": "Dinner",
+    "cuisine": "Indian",
+    "region": "Punjab",
+    "diet": "vegan",
+    "spice": 2,
+    "prepTime": 15,
+    "cookTime": 35,
+    "servings": 4,
+    "tag": "Punjabi · smoky",
+    "intro": "A whole aubergine charred over an open flame until the skin blisters and the flesh turns smoky and silky, then mashed into a quick onion-tomato masala. Rustic and deeply comforting with hot roti.",
+    "ingredients": [
+      {
+        "name": "large round aubergine (bharta baingan)",
+        "amount": 1,
+        "unit": "about 500 g"
+      },
+      {
+        "name": "garlic cloves, whole",
+        "amount": 4,
+        "unit": ""
+      },
+      {
+        "name": "onion, finely chopped",
+        "amount": 1,
+        "unit": "large"
+      },
+      {
+        "name": "tomatoes, finely chopped",
+        "amount": 2,
+        "unit": "medium"
+      },
+      {
+        "name": "green chillies, chopped",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "ginger, grated",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "coriander powder",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "garam masala",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "mustard oil (or any oil)",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "fresh coriander, chopped",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "green peas",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Rub the aubergine with a little oil and make 4 slits. Push the garlic cloves into the slits.",
+      "Roast directly over a gas flame on medium, turning with tongs every 2 minutes, until the skin is blackened all over and the aubergine collapses, 12 to 15 minutes. (Or roast under a very hot grill, turning, for 25 minutes.)",
+      "Put it in a covered bowl for 10 minutes, then peel off the charred skin. Chop the flesh and the roasted garlic finely with a knife; do not blend.",
+      "Heat the mustard oil in a kadai until it just smokes, then lower the heat. Sizzle the cumin seeds and add the onion. Cook until golden, 7 minutes.",
+      "Add the ginger and green chillies, then the tomatoes, turmeric, coriander powder, chilli powder and salt. Cook until the tomatoes turn soft and the oil separates, 6 to 8 minutes. Add the peas if using and cook 3 minutes.",
+      "Add the mashed aubergine and cook on medium heat, stirring and scraping, for 8 to 10 minutes until the bharta is thick and the smoky smell fills the kitchen.",
+      "Finish with garam masala and coriander. Serve with roti or paratha and sliced onion."
+    ],
+    "tips": [
+      "Choose a light aubergine for its size; heavy ones have more seeds.",
+      "Charring over an open flame is the whole dish. A grill works, an oven alone will not give the smoke."
+    ],
+    "readMore": [
+      "Pushpesh Pant, India: The Cookbook"
+    ],
+    "allergens": {
+      "contains": [],
+      "optional": [
+        "mustard"
+      ],
+      "check": [
+        "Ready-made spice blends can contain mustard, wheat or traces of nuts. Check the pack."
+      ],
+      "swaps": [
+        "Leave out the mustard (seeds or oil); use cumin seeds or another oil."
+      ]
+    }
+  },
+  {
+    "slug": "gulab-jamun",
+    "name": "Gulab Jamun",
+    "category": "Dessert",
+    "cuisine": "Indian",
+    "region": "North India",
+    "diet": "veg",
+    "spice": 0,
+    "prepTime": 20,
+    "cookTime": 30,
+    "restTime": 60,
+    "servings": 6,
+    "tag": "Festive · 24 pieces",
+    "intro": "Soft milk-solid dumplings fried slowly to a deep brown, then soaked in a cardamom and rose syrup until they swell and glisten. The sweet that ends every Indian celebration.",
+    "ingredients": [
+      {
+        "name": "khoya (mawa), crumbled and at room temperature",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "paneer, crumbled fine",
+        "amount": 50,
+        "unit": "g"
+      },
+      {
+        "name": "plain flour (maida)",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "baking soda",
+        "amount": 0.125,
+        "unit": "tsp"
+      },
+      {
+        "name": "milk, as needed",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "sugar",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "water",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "green cardamom, crushed",
+        "amount": 5,
+        "unit": ""
+      },
+      {
+        "name": "rose water",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "saffron strands",
+        "amount": 1,
+        "unit": "pinch"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "ghee or oil, for deep frying",
+        "amount": 3,
+        "unit": "cups"
+      },
+      {
+        "name": "pistachios, slivered",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "to serve"
+      }
+    ],
+    "steps": [
+      "Make the syrup first: boil the sugar, water, cardamom and saffron for 5 minutes until slightly sticky but not thick (it should not form a thread). Add the lemon juice and rose water and keep warm.",
+      "Knead the khoya and paneer on a plate with the heel of your hand until completely smooth and grease-free, 5 minutes. Add the flour and baking soda and knead briefly. If dry, add milk a teaspoon at a time to make a soft, smooth dough.",
+      "Grease your palms and roll into 24 small balls, each completely smooth with no cracks. Cracks open up in the fryer.",
+      "Heat the ghee in a deep kadai on medium-low. Test with a tiny piece of dough: it should sink, then rise slowly without browning fast.",
+      "Fry 6 to 8 balls at a time, stirring the ghee gently around them rather than touching them, until evenly deep golden brown, 7 to 8 minutes per batch. Slow frying cooks them through.",
+      "Lift the hot jamuns straight into the warm syrup. Let them soak for at least 1 hour; they will double in size.",
+      "Serve warm or at room temperature with a few pistachio slivers, or with a scoop of vanilla ice cream."
+    ],
+    "tips": [
+      "If the ghee is too hot, the outside browns while the inside stays raw. Keep it low and slow.",
+      "No khoya? Use 1 cup full-fat milk powder, ¼ cup flour, ¼ tsp baking soda, 1 tbsp ghee and enough milk to bind."
+    ],
+    "readMore": [
+      "Tarla Dalal, Mithai"
+    ],
+    "allergens": {
+      "contains": [
+        "milk",
+        "gluten"
+      ],
+      "optional": [
+        "tree nuts"
+      ],
+      "check": [],
+      "swaps": [
+        "Use a gluten-free flour blend; expect a more delicate texture.",
+        "Nuts here are a garnish or optional: just leave them out (pumpkin or sunflower seeds add crunch).",
+        "Milk is the heart of this dish, so there is no good dairy-free version."
+      ]
+    }
+  },
+  {
+    "slug": "gajar-halwa",
+    "name": "Gajar ka Halwa",
+    "category": "Dessert",
+    "cuisine": "Indian",
+    "region": "Punjab",
+    "diet": "veg",
+    "spice": 0,
+    "prepTime": 15,
+    "cookTime": 60,
+    "servings": 6,
+    "tag": "Winter · slow-cooked",
+    "intro": "Red winter carrots grated and cooked down patiently in milk until the milk vanishes into them, then finished with ghee, sugar, cardamom and nuts. The smell of a north Indian December.",
+    "ingredients": [
+      {
+        "name": "red carrots, peeled and finely grated",
+        "amount": 1,
+        "unit": "kg"
+      },
+      {
+        "name": "full-fat milk",
+        "amount": 1,
+        "unit": "litre"
+      },
+      {
+        "name": "sugar",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "ghee",
+        "amount": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "khoya (mawa), crumbled",
+        "amount": 100,
+        "unit": "g",
+        "note": "optional, for richness"
+      },
+      {
+        "name": "green cardamom powder",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "cashews, chopped",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "almonds, slivered",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "raisins",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "pistachios, slivered",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "to serve"
+      }
+    ],
+    "steps": [
+      "Put the grated carrots and milk in a wide heavy pan. Bring to a boil, then simmer on medium heat, stirring every few minutes, until the milk has been completely absorbed, 35 to 40 minutes.",
+      "Meanwhile, heat 1 tbsp ghee in a small pan and fry the cashews, almonds and raisins until the nuts are golden and the raisins puff. Set aside.",
+      "When the carrots are dry, add the sugar. It will release liquid again. Keep cooking and stirring until it dries once more, 10 minutes.",
+      "Add the remaining ghee and the khoya. Fry the halwa, stirring continuously, for 8 to 10 minutes until it glistens, darkens slightly and leaves the sides of the pan.",
+      "Stir in the cardamom and the fried nuts and raisins.",
+      "Serve warm, topped with pistachios, on its own or with a spoon of vanilla ice cream or rabri."
+    ],
+    "tips": [
+      "Red Delhi carrots make the best halwa; orange carrots work but taste milder.",
+      "A wide pan speeds up the evaporation. A narrow pot can double the time."
+    ],
+    "readMore": [
+      "Tarla Dalal, Mithai"
+    ],
+    "allergens": {
+      "contains": [
+        "milk",
+        "tree nuts",
+        "sulphites"
+      ],
+      "optional": [],
+      "check": [],
+      "swaps": [
+        "Nuts here are a garnish or optional: just leave them out (pumpkin or sunflower seeds add crunch).",
+        "Milk is the heart of this dish, so there is no good dairy-free version."
+      ]
+    }
+  },
+  {
+    "slug": "rice-kheer",
+    "name": "Chawal ki Kheer",
+    "category": "Dessert",
+    "cuisine": "Indian",
+    "region": "North India",
+    "diet": "veg",
+    "spice": 0,
+    "prepTime": 10,
+    "cookTime": 55,
+    "restTime": 30,
+    "servings": 6,
+    "tag": "Classic · 1 h",
+    "intro": "Rice pudding the Indian way: a little rice cooked in a lot of milk until the milk thickens and turns faintly caramel, sweetened at the end and scented with cardamom and saffron.",
+    "ingredients": [
+      {
+        "name": "basmati rice",
+        "amount": 0.33,
+        "unit": "cup"
+      },
+      {
+        "name": "full-fat milk",
+        "amount": 1.5,
+        "unit": "litres"
+      },
+      {
+        "name": "sugar",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "green cardamom powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "saffron strands",
+        "amount": 1,
+        "unit": "pinch"
+      },
+      {
+        "name": "ghee",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "almonds, slivered",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "pistachios, slivered",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "raisins",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "rose water",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Wash the rice and soak for 30 minutes. Drain and crush lightly with your fingers so the grains break into two or three pieces.",
+      "Rinse a heavy pan with water (this helps stop the milk catching). Add the milk and bring to a boil, stirring.",
+      "Add the rice and ghee. Simmer on low heat, stirring every 3 to 4 minutes and scraping the sides, until the rice is very soft and the milk has reduced by a third, about 40 minutes.",
+      "Add the sugar, saffron and most of the nuts and raisins. Cook 10 minutes more until the kheer coats the back of a spoon. It will thicken further as it cools.",
+      "Turn off the heat and stir in the cardamom and rose water.",
+      "Serve warm, or chill for 2 hours and serve cold, topped with the remaining nuts."
+    ],
+    "tips": [
+      "Scraping the dried milk from the sides back into the pot is what gives kheer its flavour.",
+      "If it gets too thick after chilling, loosen with a splash of cold milk."
+    ],
+    "readMore": [
+      "Madhur Jaffrey, Indian Cookery"
+    ],
+    "allergens": {
+      "contains": [
+        "milk",
+        "tree nuts",
+        "sulphites"
+      ],
+      "optional": [],
+      "check": [],
+      "swaps": [
+        "Nuts here are a garnish or optional: just leave them out (pumpkin or sunflower seeds add crunch).",
+        "Milk is the heart of this dish, so there is no good dairy-free version."
+      ]
+    }
+  },
+  {
+    "slug": "besan-ladoo",
+    "name": "Besan Ladoo",
+    "category": "Dessert",
+    "cuisine": "Indian",
+    "region": "North India",
+    "diet": "veg",
+    "spice": 0,
+    "prepTime": 10,
+    "cookTime": 30,
+    "restTime": 30,
+    "servings": 8,
+    "tag": "Festive · 16 pieces",
+    "intro": "Gram flour roasted slowly in ghee until it smells like toasted nuts, then sweetened and rolled warm into dense, melt-in-the-mouth balls. The Diwali sweet that keeps for weeks.",
+    "ingredients": [
+      {
+        "name": "besan (chickpea flour), coarse if possible",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "ghee",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "powdered sugar (boora or icing sugar)",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "green cardamom powder",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "semolina (fine rava)",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "for texture"
+      },
+      {
+        "name": "almonds or cashews, chopped",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "raisins",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "optional"
+      },
+      {
+        "name": "milk",
+        "amount": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Melt the ghee in a heavy kadai on low heat. Add the besan and semolina.",
+      "Roast on low heat, stirring without stopping, for 20 to 25 minutes. The mixture will go from stiff to a loose, flowing paste, turn from pale yellow to golden, and smell nutty. Do not raise the heat.",
+      "Sprinkle the milk over it and stir; it will froth and turn grainy, which gives ladoo its texture. Roast 2 more minutes.",
+      "Turn off the heat, stir in the nuts and raisins, and spread the mixture on a plate to cool until just warm to the touch, about 20 to 30 minutes.",
+      "Mix in the powdered sugar and cardamom thoroughly.",
+      "Take a heaped tablespoon in your palm, press and roll firmly into a smooth ball. Repeat to make about 16. Set for an hour before storing in an airtight tin."
+    ],
+    "tips": [
+      "Under-roasted besan tastes raw. If in doubt, roast 5 minutes more on low.",
+      "If the mixture will not hold together, add a spoon of warm ghee; if too loose, let it cool further."
+    ],
+    "readMore": [
+      "Tarla Dalal, Mithai"
+    ],
+    "allergens": {
+      "contains": [
+        "milk",
+        "gluten",
+        "tree nuts"
+      ],
+      "optional": [
+        "sulphites"
+      ],
+      "check": [],
+      "swaps": [
+        "Use oil or vegan butter instead of ghee.",
+        "Use fine rice rava or millet rava instead of semolina.",
+        "Nuts here are a garnish or optional: just leave them out (pumpkin or sunflower seeds add crunch).",
+        "Oat or soy milk works in place of dairy milk."
+      ]
+    }
+  },
+  {
+    "slug": "mango-kulfi",
+    "name": "Mango Kulfi",
+    "category": "Dessert",
+    "cuisine": "Indian",
+    "region": "North India",
+    "diet": "veg",
+    "spice": 0,
+    "prepTime": 15,
+    "cookTime": 35,
+    "restTime": 480,
+    "servings": 6,
+    "tag": "Summer · freeze overnight",
+    "intro": "Dense, slow-melting Indian ice cream made by reducing milk until it is thick and sweet, then folding in ripe Alphonso mango. No machine, no churning, just patience and a freezer.",
+    "ingredients": [
+      {
+        "name": "full-fat milk",
+        "amount": 1,
+        "unit": "litre"
+      },
+      {
+        "name": "ripe mango pulp (Alphonso or Kesar)",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "sugar",
+        "amount": 0.33,
+        "unit": "cup"
+      },
+      {
+        "name": "cream",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "milk powder",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "cornflour",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "green cardamom powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "pistachios, chopped",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "saffron strands",
+        "amount": 1,
+        "unit": "pinch"
+      }
+    ],
+    "steps": [
+      "Boil the milk in a wide heavy pan, then simmer on medium-low, stirring and scraping the sides often, until reduced by half, about 30 minutes.",
+      "Whisk the milk powder and cornflour with 3 tbsp cold milk and stir into the pan. Add the sugar and saffron and simmer 5 minutes until thick enough to coat a spoon.",
+      "Cool completely. Stir in the cream, cardamom, most of the pistachios and the mango pulp. Taste; add more sugar if your mangoes are tart.",
+      "Pour into kulfi moulds, small steel cups or paper cups. Cover tightly with foil. Freeze 8 hours or overnight.",
+      "To unmould, dip the mould in warm water for 10 seconds and slide out. Push in a stick if you like.",
+      "Serve topped with the remaining pistachios."
+    ],
+    "tips": [
+      "Add the mango only after the milk is cold; hot milk and acidic mango can split.",
+      "Skip the mango and add 2 tbsp crushed cardamom and rose water for classic malai kulfi."
+    ],
+    "readMore": [
+      "Tarla Dalal, Mithai"
+    ],
+    "allergens": {
+      "contains": [
+        "milk",
+        "tree nuts"
+      ],
+      "optional": [],
+      "check": [],
+      "swaps": [
+        "Nuts here are a garnish or optional: just leave them out (pumpkin or sunflower seeds add crunch).",
+        "Milk is the heart of this dish, so there is no good dairy-free version."
+      ]
+    }
+  },
+  {
+    "slug": "punjabi-samosa",
+    "name": "Punjabi Samosa",
+    "category": "Snacks",
+    "cuisine": "Indian",
+    "region": "Punjab",
+    "diet": "vegan",
+    "spice": 2,
+    "prepTime": 40,
+    "cookTime": 35,
+    "restTime": 30,
+    "servings": 6,
+    "tag": "Tea time · 12 pieces",
+    "intro": "Crisp, blistered pastry triangles stuffed with spiced potato and peas, fried slowly so the crust goes flaky all the way through. Serve with tamarind and mint chutneys and a cup of chai.",
+    "ingredients": [
+      {
+        "name": "plain flour (maida)",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "ghee or oil, for the dough",
+        "amount": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "ajwain (carom seeds)",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "water, approximately",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "potatoes, boiled, peeled and crumbled",
+        "amount": 4,
+        "unit": "medium"
+      },
+      {
+        "name": "green peas",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "ginger, chopped",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "green chillies, chopped",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "coriander seeds, crushed",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "fennel seeds",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "garam masala",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "amchur",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "fresh coriander, chopped",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1.5,
+        "unit": "tsp",
+        "note": "divided"
+      },
+      {
+        "name": "oil, for frying",
+        "amount": 3,
+        "unit": "cups"
+      }
+    ],
+    "steps": [
+      "Rub the ghee into the flour with ½ tsp salt and the ajwain until it holds a shape when pressed in your fist. Add water a little at a time to make a stiff, firm dough. Knead 2 minutes only, cover and rest 30 minutes.",
+      "Heat 2 tbsp oil. Sizzle the cumin, fennel and crushed coriander seeds, then add the ginger and chillies. Add the peas and cook 2 minutes.",
+      "Add the potatoes, garam masala, amchur, chilli powder and remaining salt. Mash lightly, cook 3 minutes, stir in the coriander and cool completely.",
+      "Divide the dough into 6 balls. Roll each into an oval about 18 cm long and cut in half across the middle.",
+      "Take one half, wet the straight edge, and fold it into a cone, overlapping the edge and pressing to seal. Fill the cone three-quarters with potato, wet the open rim, and pinch shut, making a small pleat at the back so it stands.",
+      "Heat the oil to medium-low (about 150 °C). Slide in 4 to 5 samosas. Fry slowly, turning now and then, for 12 to 15 minutes until pale gold and blistered. Raise the heat for the last 2 minutes to crisp them.",
+      "Drain on paper and serve hot with mint chutney and tamarind chutney."
+    ],
+    "tips": [
+      "Hot oil makes bubbly, soft samosas. Low and slow gives the proper flaky crust.",
+      "Samosas can be shaped and frozen raw; fry straight from frozen, adding 5 minutes."
+    ],
+    "readMore": [
+      "Pushpesh Pant, India: The Cookbook"
+    ],
+    "allergens": {
+      "contains": [
+        "gluten"
+      ],
+      "optional": [
+        "milk"
+      ],
+      "check": [
+        "Ready-made spice blends can contain mustard, wheat or traces of nuts. Check the pack."
+      ],
+      "swaps": [
+        "Use a gluten-free flour blend; expect a more delicate texture.",
+        "Use oil or vegan butter instead of ghee."
+      ]
+    }
+  },
+  {
+    "slug": "pav-bhaji",
+    "name": "Mumbai Pav Bhaji",
+    "category": "Snacks",
+    "cuisine": "Indian",
+    "region": "Mumbai",
+    "diet": "veg",
+    "spice": 2,
+    "prepTime": 20,
+    "cookTime": 35,
+    "servings": 4,
+    "tag": "Street food · 55 min",
+    "intro": "The Chowpatty beach classic: a buttery mash of vegetables cooked down with pav bhaji masala, served with soft bread rolls toasted in more butter. Loud, red, and impossible to eat quietly.",
+    "ingredients": [
+      {
+        "name": "potatoes, boiled and mashed",
+        "amount": 3,
+        "unit": "medium"
+      },
+      {
+        "name": "cauliflower florets",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "green peas",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "carrot, chopped",
+        "amount": 1,
+        "unit": "small"
+      },
+      {
+        "name": "capsicum, finely chopped",
+        "amount": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "onions, finely chopped",
+        "amount": 2,
+        "unit": "medium"
+      },
+      {
+        "name": "tomatoes, finely chopped",
+        "amount": 4,
+        "unit": "medium"
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1.5,
+        "unit": "tbsp"
+      },
+      {
+        "name": "pav bhaji masala",
+        "amount": 2.5,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Kashmiri red chilli powder",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "butter",
+        "amount": 6,
+        "unit": "tbsp",
+        "note": "divided"
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "fresh coriander, chopped",
+        "amount": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "pav (soft bread rolls)",
+        "amount": 8,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Boil the cauliflower, peas and carrot in salted water until soft, 10 minutes. Drain and mash roughly with the potatoes.",
+      "Heat 3 tbsp butter and the oil on a wide tawa or pan. Cook the onions until soft and golden, 6 minutes. Add the ginger-garlic paste and capsicum and fry 2 minutes.",
+      "Add the tomatoes, turmeric, chilli powder and salt. Cook, mashing with the back of the spatula, until the tomatoes turn into a thick paste and the butter separates, 8 to 10 minutes.",
+      "Add the pav bhaji masala and the mashed vegetables with 1 cup of hot water. Mash and stir continuously for 10 minutes until smooth, glossy and thick. Add more water if it catches.",
+      "Finish with 1 tbsp butter, the lemon juice and half the coriander.",
+      "Slit the pav, spread with the remaining butter and a pinch of masala, and toast on the hot tawa until golden on both sides.",
+      "Serve the bhaji topped with a cube of butter, coriander and chopped raw onion, with the pav and lemon wedges alongside."
+    ],
+    "tips": [
+      "A potato masher used right in the pan is the real street-stall technique.",
+      "Kashmiri chilli gives the red colour. For extra red, soak 3 dried Kashmiri chillies and blend them in with the tomatoes."
+    ],
+    "readMore": [
+      "Saee Koranne-Khandekar, Pangat"
+    ],
+    "allergens": {
+      "contains": [
+        "gluten",
+        "milk"
+      ],
+      "optional": [],
+      "check": [
+        "Ready-made spice blends can contain mustard, wheat or traces of nuts. Check the pack.",
+        "Shop-bought breads and noodles may contain egg, milk, sesame or soy."
+      ],
+      "swaps": [
+        "Serve with gluten-free bread, or rice / rice rotis.",
+        "Use a plant butter or neutral oil instead of butter."
+      ]
+    }
+  },
+  {
+    "slug": "onion-pakora",
+    "name": "Onion Pakora",
+    "category": "Snacks",
+    "cuisine": "Indian",
+    "region": "All India",
+    "diet": "vegan",
+    "spice": 2,
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "tag": "Monsoon · 35 min",
+    "intro": "Kanda bhaji: thin onion slices bound in a bare minimum of spiced gram flour and fried into crisp, craggy clusters. The sound of rain outside is traditionally considered an ingredient.",
+    "ingredients": [
+      {
+        "name": "onions, thinly sliced",
+        "amount": 3,
+        "unit": "large"
+      },
+      {
+        "name": "besan (chickpea flour)",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "rice flour",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "green chillies, chopped",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "ginger, grated",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "curry leaves, torn",
+        "amount": 8,
+        "unit": ""
+      },
+      {
+        "name": "fresh coriander, chopped",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "ajwain (carom seeds)",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "hot oil, for the batter",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "oil, for frying",
+        "amount": 3,
+        "unit": "cups"
+      },
+      {
+        "name": "chaat masala",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "to serve"
+      }
+    ],
+    "steps": [
+      "Put the onions in a bowl with the salt, chillies, ginger, curry leaves, coriander, ajwain, chilli powder and turmeric. Squeeze and rub with your hands for 2 minutes until the onions go limp and release their water.",
+      "Rest 10 minutes. Add the besan and rice flour and mix; the onion juice should bind it into a sticky, barely-coated tangle. Add water only a teaspoon at a time if needed. Less batter means crisper pakoras.",
+      "Heat the frying oil to medium-high (180 °C). Spoon 1 tbsp of the hot oil into the batter and mix; this makes the pakoras light.",
+      "Drop loose, rough clusters of the mixture into the oil with your fingers, 6 to 8 at a time. Do not shape them neatly.",
+      "Fry, turning once, until deep golden and crisp, 4 to 5 minutes. Drain on paper.",
+      "Sprinkle with chaat masala and serve immediately with mint chutney and masala chai."
+    ],
+    "tips": [
+      "The thinner the onion, the crisper the pakora. A mandoline helps.",
+      "Fry the second batch in the same oil for the family; eat the first batch standing at the stove."
+    ],
+    "readMore": [
+      "Meera Sodha, Made in India"
+    ],
+    "allergens": {
+      "contains": [],
+      "optional": [],
+      "check": [
+        "Ready-made spice blends can contain mustard, wheat or traces of nuts. Check the pack."
+      ],
+      "swaps": []
+    }
+  },
+  {
+    "slug": "khaman-dhokla",
+    "name": "Khaman Dhokla",
+    "category": "Snacks",
+    "cuisine": "Indian",
+    "region": "Gujarat",
+    "diet": "vegan",
+    "spice": 1,
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "tag": "Gujarati · steamed",
+    "intro": "Spongy, sweet-sour steamed chickpea-flour squares, finished with a sizzling mustard-seed and curry-leaf tempering and a sugar-water glaze. Light, airy and ready in half an hour.",
+    "ingredients": [
+      {
+        "name": "besan (chickpea flour)",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "fine semolina",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "water",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "ginger-green chilli paste",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1.5,
+        "unit": "tbsp"
+      },
+      {
+        "name": "sugar",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "divided"
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "oil",
+        "amount": 3,
+        "unit": "tbsp",
+        "note": "divided"
+      },
+      {
+        "name": "Eno fruit salt (or 1 tsp baking soda)",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "mustard seeds",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "sesame seeds",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "green chillies, slit",
+        "amount": 3,
+        "unit": ""
+      },
+      {
+        "name": "curry leaves",
+        "amount": 10,
+        "unit": ""
+      },
+      {
+        "name": "asafoetida",
+        "amount": 1,
+        "unit": "pinch"
+      },
+      {
+        "name": "fresh coriander and grated coconut",
+        "amount": 3,
+        "unit": "tbsp",
+        "note": "to serve"
+      }
+    ],
+    "steps": [
+      "Set a steamer or a large pot with 2 cups water and a trivet to boil. Grease a 20 cm round tin or deep plate with oil.",
+      "Whisk the besan, semolina, water, ginger-chilli paste, lemon juice, 1 tbsp sugar, turmeric, salt and 1 tbsp oil into a smooth, thick but pourable batter. Rest 10 minutes.",
+      "Just before steaming, sprinkle the Eno over the batter, pour 1 tsp water on it, and fold quickly and gently as it froths. Pour at once into the tin.",
+      "Steam on high for 15 to 18 minutes until a knife comes out clean. Rest 5 minutes, then cut into squares in the tin.",
+      "For the tempering, heat the remaining oil. Pop the mustard seeds, add the sesame seeds, chillies, curry leaves and asafoetida. Add ⅓ cup water and the remaining sugar, bring to a boil and turn off.",
+      "Pour the tempering evenly over the dhokla so it soaks into the cuts.",
+      "Scatter coriander and coconut on top. Serve warm or at room temperature with green chutney."
+    ],
+    "tips": [
+      "The Eno must go in at the last second, and the batter straight into the steamer, or the dhokla will not rise.",
+      "The sugar-water in the tempering is what keeps dhokla moist and gives its sweet-sour balance."
+    ],
+    "readMore": [
+      "Tarla Dalal, The Complete Gujarati Cook Book"
+    ],
+    "allergens": {
+      "contains": [
+        "gluten",
+        "mustard",
+        "sesame"
+      ],
+      "optional": [],
+      "check": [
+        "Hing (asafoetida) is usually blended with wheat flour. Buy a gluten-free one if needed."
+      ],
+      "swaps": [
+        "Use fine rice rava or millet rava instead of semolina.",
+        "Leave out the mustard (seeds or oil); use cumin seeds or another oil.",
+        "Leave out the sesame seeds or oil."
+      ]
+    }
+  },
+  {
+    "slug": "anda-bhurji",
+    "name": "Anda Bhurji",
+    "category": "Breakfast",
+    "cuisine": "Indian",
+    "region": "Mumbai",
+    "diet": "egg",
+    "spice": 2,
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 2,
+    "tag": "Mumbai street style · 20 min",
+    "intro": "Mumbai's late-night street breakfast: eggs scrambled into soft, buttery curds with onion, tomato, green chilli and a pinch of pav bhaji masala, scooped up with toasted pav.",
+    "ingredients": [
+      {
+        "name": "eggs",
+        "amount": 4,
+        "unit": "large"
+      },
+      {
+        "name": "butter",
+        "amount": 2,
+        "unit": "tbsp",
+        "note": "plus more for the pav"
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "onion, finely chopped",
+        "amount": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "tomato, finely chopped",
+        "amount": 1,
+        "unit": "medium"
+      },
+      {
+        "name": "green chillies, finely chopped",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "red chilli powder",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "pav bhaji masala (or garam masala)",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "fresh coriander, chopped",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "pav (soft bread rolls)",
+        "amount": 4,
+        "unit": "",
+        "note": "to serve"
+      }
+    ],
+    "steps": [
+      "Crack the eggs into a bowl with a pinch of the salt and whisk lightly with a fork, just until the yolks and whites are mixed.",
+      "Heat 1 tbsp butter with the oil in a pan over medium heat. Cook the onion until soft and translucent, 3 to 4 minutes.",
+      "Add the ginger-garlic paste and green chillies and fry for 1 minute.",
+      "Add the tomato, turmeric, chilli powder, pav bhaji masala and the rest of the salt. Cook, mashing with the spatula, until the tomato is soft and jammy, 3 to 4 minutes.",
+      "Lower the heat. Pour in the eggs and leave them for 20 seconds until the bottom just starts to set.",
+      "Push the eggs gently from the edges to the centre with a spatula, making big soft curds. Keep going for 2 to 3 minutes and take the pan off the heat while they still look a little wet; they finish cooking on their own.",
+      "Stir in the coriander and the last tablespoon of butter. Toast the pav in butter on a hot tawa and serve together."
+    ],
+    "tips": [
+      "Taking the eggs off the heat while still moist is the difference between creamy and rubbery bhurji.",
+      "Street stalls often finish with a handful of grated cheese. Worth trying once."
+    ],
+    "readMore": [
+      "Saee Koranne-Khandekar, Pangat"
+    ],
+    "allergens": {
+      "contains": [
+        "egg",
+        "milk"
+      ],
+      "optional": [
+        "gluten"
+      ],
+      "check": [
+        "Ready-made spice blends can contain mustard, wheat or traces of nuts. Check the pack.",
+        "Shop-bought breads and noodles may contain egg, milk, sesame or soy."
+      ],
+      "swaps": [
+        "Use a plant butter or neutral oil instead of butter.",
+        "Serve with gluten-free bread, or rice / rice rotis."
+      ]
+    }
+  },
+  {
+    "slug": "masala-omelette",
+    "name": "Masala Omelette",
+    "category": "Breakfast",
+    "cuisine": "Indian",
+    "region": "All India",
+    "diet": "egg",
+    "spice": 1,
+    "prepTime": 5,
+    "cookTime": 6,
+    "servings": 1,
+    "tag": "Everyday · 10 min",
+    "intro": "The Indian canteen omelette: two eggs whisked frothy with onion, tomato, green chilli and coriander, cooked in butter until golden and served with buttered toast and ketchup.",
+    "ingredients": [
+      {
+        "name": "eggs",
+        "amount": 2,
+        "unit": "large"
+      },
+      {
+        "name": "milk",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "onion, finely chopped",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "tomato, deseeded and finely chopped",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "green chilli, finely chopped",
+        "amount": 1,
+        "unit": ""
+      },
+      {
+        "name": "fresh coriander, chopped",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 1,
+        "unit": "pinch"
+      },
+      {
+        "name": "red chilli powder",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "black pepper",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 0.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "butter or oil",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "bread slices, toasted",
+        "amount": 2,
+        "unit": "",
+        "note": "to serve"
+      }
+    ],
+    "steps": [
+      "Whisk the eggs with the milk, salt, pepper, turmeric and chilli powder until frothy, about 30 seconds.",
+      "Stir in the onion, tomato, green chilli and coriander.",
+      "Heat the butter in a 20 cm frying pan over medium heat until it foams.",
+      "Pour in the eggs and swirl the pan so they spread evenly. Cook for 1 to 2 minutes until the edges set, lifting them with a spatula so the raw egg runs underneath.",
+      "When the top is almost set, flip the omelette (or fold it in half) and cook 30 seconds more until golden.",
+      "Slide onto a plate and serve hot with buttered toast and ketchup."
+    ],
+    "tips": [
+      "Medium heat keeps the omelette soft and golden; high heat makes it brown and tough.",
+      "Fold in a spoon of grated cheese before flipping for a cheese masala omelette."
+    ],
+    "readMore": [],
+    "allergens": {
+      "contains": [
+        "egg",
+        "milk"
+      ],
+      "optional": [
+        "gluten"
+      ],
+      "check": [
+        "Shop-bought breads and noodles may contain egg, milk, sesame or soy."
+      ],
+      "swaps": [
+        "Oat or soy milk works in place of dairy milk.",
+        "Use a plant butter or neutral oil instead of butter.",
+        "Serve with gluten-free bread, or rice / rice rotis."
+      ]
+    }
+  },
+  {
+    "slug": "anda-curry",
+    "name": "Anda Curry",
+    "category": "Dinner",
+    "cuisine": "Indian",
+    "region": "North India",
+    "diet": "egg",
+    "spice": 2,
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 4,
+    "tag": "Home style · 45 min",
+    "intro": "Dhaba-style egg curry: boiled eggs blistered in spiced oil, then simmered in a rich onion-tomato gravy. Cheap, filling and one of the most-cooked dinners in Indian homes.",
+    "ingredients": [
+      {
+        "name": "eggs",
+        "amount": 6,
+        "unit": "large"
+      },
+      {
+        "name": "onions, finely chopped",
+        "amount": 2,
+        "unit": "medium"
+      },
+      {
+        "name": "tomatoes, pureed",
+        "amount": 3,
+        "unit": "medium"
+      },
+      {
+        "name": "ginger-garlic paste",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "green chillies, slit",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "bay leaf",
+        "amount": 1,
+        "unit": ""
+      },
+      {
+        "name": "cumin seeds",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "turmeric powder",
+        "amount": 0.5,
+        "unit": "tsp",
+        "note": "divided"
+      },
+      {
+        "name": "Kashmiri red chilli powder",
+        "amount": 1.5,
+        "unit": "tsp",
+        "note": "divided"
+      },
+      {
+        "name": "coriander powder",
+        "amount": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "garam masala",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "kasuri methi",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "oil",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1.25,
+        "unit": "tsp"
+      },
+      {
+        "name": "water",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "fresh coriander, chopped",
+        "amount": 3,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Lower the eggs into boiling water and cook 10 minutes. Cool in cold water, peel, and make 3 or 4 shallow slits in each so the gravy can soak in.",
+      "Heat 1 tbsp oil in a pan, add a pinch each of turmeric and chilli powder, and fry the eggs, rolling them, until blistered and golden, about 2 minutes. Set aside.",
+      "In the same pan heat the remaining oil. Add the cumin seeds and bay leaf; when they sizzle, add the onions and cook until golden brown, about 10 minutes.",
+      "Add the ginger-garlic paste and green chillies and fry 1 minute.",
+      "Add the remaining turmeric and chilli powder and the coriander powder, stir for 30 seconds, then pour in the tomato puree. Cook until the masala thickens and the oil separates, about 8 minutes.",
+      "Add the water and salt, bring to a boil and simmer 5 minutes.",
+      "Add the eggs and simmer 5 to 8 minutes, spooning the gravy over them. Finish with garam masala, crushed kasuri methi and coriander. Serve with rice or roti."
+    ],
+    "tips": [
+      "Frying the boiled eggs before they go into the gravy gives them a firmer skin and more flavour.",
+      "Add two halved boiled potatoes with the eggs for the Bengali-style dim kosha feel."
+    ],
+    "readMore": [
+      "Pushpesh Pant, India: The Cookbook"
+    ],
+    "allergens": {
+      "contains": [
+        "egg"
+      ],
+      "optional": [],
+      "check": [
+        "Ready-made spice blends can contain mustard, wheat or traces of nuts. Check the pack."
+      ],
+      "swaps": []
+    }
+  },
+  {
+    "slug": "kolkata-egg-roll",
+    "name": "Kolkata Egg Roll",
+    "category": "Snacks",
+    "cuisine": "Indian",
+    "region": "Kolkata",
+    "diet": "egg",
+    "spice": 2,
+    "prepTime": 25,
+    "cookTime": 15,
+    "restTime": 30,
+    "servings": 4,
+    "tag": "Kolkata street food · 4 rolls",
+    "intro": "Kolkata's famous street roll: a flaky paratha fried with a whole egg on one side, then rolled around sharp onion, cucumber and green chilli with ketchup, chilli sauce and a squeeze of lime.",
+    "ingredients": [
+      {
+        "name": "plain flour (maida)",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "divided"
+      },
+      {
+        "name": "oil, for the dough",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "water, approximately",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "eggs",
+        "amount": 4,
+        "unit": "large"
+      },
+      {
+        "name": "onion, thinly sliced",
+        "amount": 1,
+        "unit": "large"
+      },
+      {
+        "name": "cucumber, cut in thin sticks",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "green chillies, chopped",
+        "amount": 4,
+        "unit": ""
+      },
+      {
+        "name": "lime or lemon juice",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "chaat masala",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "tomato ketchup",
+        "amount": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "green chilli sauce",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "oil, for cooking",
+        "amount": 4,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Mix the flour with ½ tsp salt and the 2 tbsp oil. Add water gradually and knead to a soft, smooth dough. Cover and rest 30 minutes.",
+      "Toss the onion, cucumber and green chillies with the lime juice and chaat masala. Set aside.",
+      "Divide the dough into 4 balls and roll each into a thin 20 cm circle.",
+      "Cook a paratha on a hot tawa with a teaspoon of oil on each side until light golden spots appear but it is still soft. Lift it off.",
+      "Beat one egg with a pinch of salt. Pour it onto the hot oiled tawa and spread it into a circle the size of the paratha. Immediately lay the paratha on top and press gently.",
+      "When the egg has set and stuck to the paratha, about 1 minute, flip and cook the egg side for 30 seconds more.",
+      "Place egg side up on a board. Lay a line of the onion mixture down the middle, add ketchup and chilli sauce, roll up tightly and wrap the bottom half in paper. Repeat with the rest."
+    ],
+    "tips": [
+      "The paratha should stay soft enough to roll without cracking. Don't cook it crisp.",
+      "Add a few strips of fried chicken or paneer for a double roll."
+    ],
+    "readMore": [],
+    "allergens": {
+      "contains": [
+        "gluten",
+        "egg"
+      ],
+      "optional": [],
+      "check": [
+        "Ready-made spice blends can contain mustard, wheat or traces of nuts. Check the pack.",
+        "Bottled sauces can contain sulphites or gluten."
+      ],
+      "swaps": [
+        "Use a gluten-free flour blend; expect a more delicate texture."
+      ]
+    }
+  }
+]

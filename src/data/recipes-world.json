@@ -1,0 +1,1574 @@
+[
+  {
+    "slug": "buttermilk-pancakes",
+    "name": "Fluffy Buttermilk Pancakes",
+    "category": "Breakfast",
+    "cuisine": "American",
+    "region": "USA",
+    "diet": "egg",
+    "spice": 0,
+    "prepTime": 10,
+    "cookTime": 15,
+    "restTime": 10,
+    "servings": 4,
+    "tag": "Weekend · 25 min",
+    "intro": "Tall, tender diner pancakes. Buttermilk and a lumpy batter are the two secrets; a hot pan and patience are the other two.",
+    "ingredients": [
+      {
+        "name": "plain flour",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "sugar",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "baking powder",
+        "amount": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "baking soda",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "buttermilk",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "eggs",
+        "amount": 2,
+        "unit": "large"
+      },
+      {
+        "name": "butter, melted, plus more for the pan",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "maple syrup and butter, to serve",
+        "amount": 0.5,
+        "unit": "cup"
+      }
+    ],
+    "steps": [
+      "Whisk the flour, sugar, baking powder, baking soda and salt in a large bowl.",
+      "In a jug, whisk the buttermilk, eggs, melted butter and vanilla.",
+      "Pour the wet into the dry and fold with a spatula just until no dry streaks remain. Lumps are good. Rest the batter 10 minutes; it will thicken and bubble.",
+      "Heat a heavy pan or griddle over medium heat and brush lightly with butter.",
+      "Pour ¼ cup of batter per pancake. Cook until bubbles cover the top and the edges look dry, 2 to 3 minutes. Flip once and cook 1 to 2 minutes more.",
+      "Keep warm in a low oven while you cook the rest. Stack high with butter and warm maple syrup."
+    ],
+    "tips": [
+      "No buttermilk? Stir 2 tbsp lemon juice into 2 cups milk and wait 5 minutes.",
+      "Overmixing makes rubbery pancakes. Stop while it still looks a bit wrong."
+    ],
+    "readMore": [],
+    "allergens": {
+      "contains": [
+        "gluten",
+        "milk",
+        "egg"
+      ],
+      "optional": [],
+      "check": [],
+      "swaps": [
+        "Use a gluten-free flour blend; expect a more delicate texture.",
+        "Use a plant butter or neutral oil instead of butter.",
+        "For egg-free baking, use 1 tbsp ground flax + 3 tbsp water per egg."
+      ]
+    }
+  },
+  {
+    "slug": "shakshuka",
+    "name": "Shakshuka",
+    "category": "Breakfast",
+    "cuisine": "Middle Eastern",
+    "region": "North Africa / Levant",
+    "diet": "egg",
+    "spice": 1,
+    "prepTime": 10,
+    "cookTime": 30,
+    "servings": 3,
+    "tag": "One pan · 40 min",
+    "intro": "Eggs poached gently in a smoky, spiced tomato and pepper sauce, eaten straight from the pan with bread for dipping. A brunch that feeds a table from one skillet.",
+    "ingredients": [
+      {
+        "name": "olive oil",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "onion, sliced",
+        "amount": 1,
+        "unit": "large"
+      },
+      {
+        "name": "red peppers, sliced",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "garlic, sliced",
+        "amount": 4,
+        "unit": "cloves"
+      },
+      {
+        "name": "ground cumin",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "smoked paprika",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "chilli flakes",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "canned chopped tomatoes",
+        "amount": 800,
+        "unit": "g"
+      },
+      {
+        "name": "sugar",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "eggs",
+        "amount": 6,
+        "unit": ""
+      },
+      {
+        "name": "feta, crumbled",
+        "amount": 80,
+        "unit": "g"
+      },
+      {
+        "name": "fresh parsley or coriander, chopped",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "crusty bread or pita, to serve",
+        "amount": 1,
+        "unit": "loaf"
+      }
+    ],
+    "steps": [
+      "Heat the oil in a wide, deep frying pan over medium heat. Cook the onion and peppers until very soft and starting to caramelise, 12 to 15 minutes.",
+      "Add the garlic, cumin, paprika and chilli flakes and stir for 1 minute.",
+      "Add the tomatoes, sugar and salt. Simmer uncovered until thick and reduced, 10 minutes. Taste and adjust.",
+      "Make 6 wells in the sauce with a spoon. Crack an egg into each.",
+      "Cover and cook on low heat until the whites are set but the yolks are still soft, 6 to 8 minutes.",
+      "Scatter with feta and herbs. Bring the pan to the table with bread for scooping."
+    ],
+    "tips": [
+      "Cooking the peppers until properly soft is where the sweetness comes from. Don't hurry it.",
+      "A spoon of harissa in the sauce makes it Tunisian-style and hotter."
+    ],
+    "readMore": [],
+    "allergens": {
+      "contains": [
+        "egg",
+        "milk"
+      ],
+      "optional": [
+        "gluten"
+      ],
+      "check": [
+        "Shop-bought breads and noodles may contain egg, milk, sesame or soy."
+      ],
+      "swaps": [
+        "Use a dairy-free cheese, or leave it out.",
+        "Serve with gluten-free bread, or rice / rice rotis."
+      ]
+    }
+  },
+  {
+    "slug": "cinnamon-french-toast",
+    "name": "Cinnamon French Toast",
+    "category": "Breakfast",
+    "cuisine": "French / American",
+    "region": "",
+    "diet": "egg",
+    "spice": 0,
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "tag": "Cozy · 25 min",
+    "intro": "Thick slices of day-old bread soaked in vanilla-cinnamon custard and fried in butter until the outside is crisp and the inside is like warm pudding.",
+    "ingredients": [
+      {
+        "name": "thick slices of brioche or day-old white bread",
+        "amount": 8,
+        "unit": ""
+      },
+      {
+        "name": "eggs",
+        "amount": 4,
+        "unit": "large"
+      },
+      {
+        "name": "whole milk",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "cream",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "sugar",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "ground cinnamon",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "pinch"
+      },
+      {
+        "name": "butter",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "icing sugar, berries and maple syrup, to serve",
+        "amount": 1,
+        "unit": "handful"
+      }
+    ],
+    "steps": [
+      "Whisk the eggs, milk, cream, sugar, cinnamon, vanilla and salt in a wide shallow dish until smooth.",
+      "Heat a large pan over medium heat and melt 1 tbsp butter until foaming.",
+      "Dip 2 or 3 slices of bread in the custard for about 15 seconds per side. They should be soaked through but not falling apart.",
+      "Fry until deep golden and crisp, 2 to 3 minutes per side. Add more butter for each batch.",
+      "Keep warm in a low oven while you finish the rest.",
+      "Dust with icing sugar and serve with berries and warm maple syrup."
+    ],
+    "tips": [
+      "Slightly stale bread soaks up custard without collapsing. Fresh bread goes soggy.",
+      "For a crunchy crust, press the soaked slices into crushed cornflakes before frying."
+    ],
+    "readMore": [],
+    "allergens": {
+      "contains": [
+        "gluten",
+        "egg",
+        "milk"
+      ],
+      "optional": [],
+      "check": [
+        "Shop-bought breads and noodles may contain egg, milk, sesame or soy."
+      ],
+      "swaps": [
+        "Serve with gluten-free bread, or rice / rice rotis.",
+        "Oat or soy milk works in place of dairy milk.",
+        "Swap cream for coconut cream or cashew cream.",
+        "Use a plant butter or neutral oil instead of butter."
+      ]
+    }
+  },
+  {
+    "slug": "roasted-tomato-soup",
+    "name": "Roasted Tomato Soup",
+    "category": "Lunch",
+    "cuisine": "American / European",
+    "region": "",
+    "diet": "veg",
+    "spice": 0,
+    "prepTime": 10,
+    "cookTime": 50,
+    "servings": 4,
+    "tag": "Rainy day · 1 h",
+    "intro": "Tomatoes, onion and garlic roasted until their edges caramelise, then blended with a little cream into the smoothest soup for a rainy afternoon. Made for grilled cheese dunking.",
+    "ingredients": [
+      {
+        "name": "ripe tomatoes, halved",
+        "amount": 1.2,
+        "unit": "kg"
+      },
+      {
+        "name": "onion, cut in wedges",
+        "amount": 1,
+        "unit": "large"
+      },
+      {
+        "name": "garlic cloves, unpeeled",
+        "amount": 6,
+        "unit": ""
+      },
+      {
+        "name": "olive oil",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "black pepper",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "sugar",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "vegetable stock",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "fresh basil leaves",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "cream",
+        "amount": 0.33,
+        "unit": "cup"
+      },
+      {
+        "name": "butter",
+        "amount": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Heat the oven to 220 °C (200 °C fan). Spread the tomatoes cut side up, onion and garlic on a large tray. Drizzle with oil, sprinkle with salt, pepper and sugar.",
+      "Roast for 35 to 40 minutes until the tomatoes are collapsed and charred at the edges.",
+      "Squeeze the garlic out of its skins. Tip everything, including the juices on the tray, into a pot with the stock and most of the basil.",
+      "Simmer 10 minutes, then blend until completely smooth with a stick blender. Pass through a sieve for an extra-silky soup.",
+      "Stir in the cream and butter. Taste for salt and a pinch more sugar if sharp.",
+      "Serve with the remaining basil, a swirl of cream and a grilled cheese toastie for dipping."
+    ],
+    "tips": [
+      "Out of season, use 2 cans of whole peeled tomatoes and roast them the same way.",
+      "The soup freezes well before the cream is added."
+    ],
+    "readMore": [],
+    "allergens": {
+      "contains": [
+        "milk"
+      ],
+      "optional": [],
+      "check": [
+        "Stock cubes and ready stocks can contain celery, gluten or soy."
+      ],
+      "swaps": [
+        "Swap cream for coconut cream or cashew cream.",
+        "Use a plant butter or neutral oil instead of butter."
+      ]
+    }
+  },
+  {
+    "slug": "mediterranean-chickpea-salad",
+    "name": "Mediterranean Chickpea Salad",
+    "category": "Lunch",
+    "cuisine": "Mediterranean",
+    "region": "Greece / Levant",
+    "diet": "veg",
+    "spice": 0,
+    "prepTime": 15,
+    "cookTime": 0,
+    "restTime": 15,
+    "servings": 4,
+    "tag": "No cook · 15 min",
+    "intro": "Crunchy cucumber, sweet tomato, chickpeas, olives and feta in a lemon-oregano dressing. No stove required, and better after fifteen minutes in the fridge.",
+    "ingredients": [
+      {
+        "name": "canned chickpeas, drained and rinsed",
+        "amount": 2,
+        "unit": "cans (400 g each)"
+      },
+      {
+        "name": "cucumber, diced",
+        "amount": 1,
+        "unit": "large"
+      },
+      {
+        "name": "cherry tomatoes, halved",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "red onion, thinly sliced",
+        "amount": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "Kalamata olives, pitted",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "feta, cubed",
+        "amount": 150,
+        "unit": "g"
+      },
+      {
+        "name": "fresh parsley, chopped",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "fresh mint, chopped",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "extra-virgin olive oil",
+        "amount": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "dried oregano",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "garlic, grated",
+        "amount": 1,
+        "unit": "small clove"
+      },
+      {
+        "name": "salt",
+        "amount": 0.75,
+        "unit": "tsp"
+      },
+      {
+        "name": "black pepper",
+        "amount": 0.5,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Soak the red onion in cold water for 10 minutes to soften its bite, then drain.",
+      "Whisk the olive oil, lemon juice, oregano, garlic, salt and pepper in the bottom of a large bowl.",
+      "Add the chickpeas, cucumber, tomatoes, onion and olives. Toss well.",
+      "Fold in the feta, parsley and mint gently so the feta stays in cubes.",
+      "Rest 15 minutes for the chickpeas to drink up the dressing. Taste and add more lemon or salt.",
+      "Serve with warm pita, or spoon into lettuce leaves."
+    ],
+    "tips": [
+      "It keeps for 2 days in the fridge; add the herbs and feta fresh when serving.",
+      "Add a cup of cooked quinoa or bulgur to make it a full meal."
+    ],
+    "readMore": [],
+    "allergens": {
+      "contains": [
+        "milk"
+      ],
+      "optional": [],
+      "check": [],
+      "swaps": [
+        "Use a dairy-free cheese, or leave it out."
+      ]
+    }
+  },
+  {
+    "slug": "grilled-cheese-toastie",
+    "name": "Grilled Cheese Toastie",
+    "category": "Lunch",
+    "cuisine": "American",
+    "region": "",
+    "diet": "veg",
+    "spice": 0,
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 2,
+    "tag": "Classic · 15 min",
+    "intro": "Two cheeses, buttered bread and a low, patient flame. The outside shatters, the inside stretches. Pair it with the roasted tomato soup and there is nothing left to want.",
+    "ingredients": [
+      {
+        "name": "thick slices of sourdough or white bread",
+        "amount": 4,
+        "unit": ""
+      },
+      {
+        "name": "mature cheddar, grated",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "mozzarella or Gruyère, grated",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "butter, softened",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "mayonnaise",
+        "amount": 1,
+        "unit": "tbsp",
+        "note": "optional, for extra-crisp crust"
+      },
+      {
+        "name": "Dijon mustard",
+        "amount": 1,
+        "unit": "tsp",
+        "note": "optional"
+      },
+      {
+        "name": "black pepper",
+        "amount": 1,
+        "unit": "pinch"
+      }
+    ],
+    "steps": [
+      "Mix the two cheeses with the pepper.",
+      "Spread the mustard thinly on the inside of two slices. Pile the cheese on, right to the edges, and top with the other slices.",
+      "Spread the outside of each sandwich generously with butter (and a thin layer of mayonnaise, if using).",
+      "Heat a heavy pan over medium-low. Lay in the sandwiches and press lightly with a spatula.",
+      "Cook 4 to 5 minutes per side until deep golden and the cheese has melted. If the bread browns before the cheese melts, cover the pan for a minute.",
+      "Rest 1 minute, cut diagonally, and eat while the cheese still pulls."
+    ],
+    "tips": [
+      "Low heat is the whole trick. High heat burns the bread before the middle melts.",
+      "Grate the cheese; sliced cheese melts unevenly."
+    ],
+    "readMore": [],
+    "allergens": {
+      "contains": [
+        "gluten",
+        "milk"
+      ],
+      "optional": [
+        "egg",
+        "mustard"
+      ],
+      "check": [
+        "Shop-bought breads and noodles may contain egg, milk, sesame or soy."
+      ],
+      "swaps": [
+        "Serve with gluten-free bread, or rice / rice rotis.",
+        "Use a dairy-free cheese, or leave it out.",
+        "Use a plant butter or neutral oil instead of butter.",
+        "Leave out the mustard (seeds or oil); use cumin seeds or another oil."
+      ]
+    }
+  },
+  {
+    "slug": "thai-green-curry",
+    "name": "Thai Green Curry",
+    "category": "Dinner",
+    "cuisine": "Thai",
+    "region": "Central Thailand",
+    "diet": "veg",
+    "spice": 2,
+    "prepTime": 20,
+    "cookTime": 25,
+    "servings": 4,
+    "tag": "Thai · 45 min",
+    "intro": "Gaeng keow wan: fragrant green curry paste fried in coconut cream until the oil splits, then simmered with vegetables (or chicken), Thai basil and kaffir lime. Sweet, salty, hot and creamy all at once.",
+    "ingredients": [
+      {
+        "name": "Thai green curry paste",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "coconut milk (full fat)",
+        "amount": 800,
+        "unit": "ml"
+      },
+      {
+        "name": "firm tofu, cubed, or chicken thigh, sliced",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "Thai aubergines or regular aubergine, chunks",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "green beans, cut in 4 cm pieces",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "red pepper, sliced",
+        "amount": 1,
+        "unit": ""
+      },
+      {
+        "name": "bamboo shoots, drained",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "optional"
+      },
+      {
+        "name": "kaffir lime leaves, torn",
+        "amount": 4,
+        "unit": ""
+      },
+      {
+        "name": "palm sugar or brown sugar",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "fish sauce or light soy sauce",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "Thai basil leaves",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "red chilli, sliced",
+        "amount": 1,
+        "unit": ""
+      },
+      {
+        "name": "lime juice",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "oil",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "jasmine rice, cooked, to serve",
+        "amount": 2,
+        "unit": "cups"
+      }
+    ],
+    "steps": [
+      "Do not shake the coconut milk cans. Spoon the thick cream from the top (about ½ cup) into a wok with the oil over medium heat.",
+      "Add the curry paste and fry, stirring, until the mixture darkens, smells intensely fragrant and the oil separates, 4 to 5 minutes.",
+      "Add the tofu or chicken and stir to coat for 2 minutes.",
+      "Pour in the rest of the coconut milk with the lime leaves, sugar and fish sauce. Bring to a gentle simmer.",
+      "Add the aubergine and simmer 8 minutes, then the beans, pepper and bamboo shoots for 5 minutes more, until just tender.",
+      "Turn off the heat. Stir in the basil, chilli and lime juice. Taste: it should be salty, sweet and hot in balance; adjust with more fish sauce, sugar or lime.",
+      "Serve over jasmine rice."
+    ],
+    "tips": [
+      "Frying the paste in the thick cream until it splits is the step most people skip, and the one that matters most.",
+      "Paste brands vary a lot in heat. Start with 2 tbsp if you're unsure."
+    ],
+    "readMore": [],
+    "allergens": {
+      "contains": [],
+      "optional": [
+        "soy",
+        "gluten",
+        "fish"
+      ],
+      "check": [
+        "Ready-made Thai curry paste often contains shrimp paste (shellfish) and fish sauce.",
+        "Soy sauce contains wheat; tamari is a gluten-free swap."
+      ],
+      "swaps": [
+        "Use tamari instead of soy sauce."
+      ]
+    }
+  },
+  {
+    "slug": "creamy-mushroom-pasta",
+    "name": "Creamy Mushroom Pasta",
+    "category": "Dinner",
+    "cuisine": "Italian",
+    "region": "",
+    "diet": "veg",
+    "spice": 0,
+    "prepTime": 10,
+    "cookTime": 25,
+    "servings": 4,
+    "tag": "Weeknight · 35 min",
+    "intro": "Mushrooms browned properly in a hot pan, then garlic, thyme, a splash of wine and cream, tossed with pasta and parmesan. A 35-minute dinner that tastes like a trattoria.",
+    "ingredients": [
+      {
+        "name": "tagliatelle or pappardelle",
+        "amount": 400,
+        "unit": "g"
+      },
+      {
+        "name": "mixed mushrooms (chestnut, oyster, shiitake), sliced",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "butter",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "olive oil",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "shallot, finely chopped",
+        "amount": 1,
+        "unit": ""
+      },
+      {
+        "name": "garlic, finely chopped",
+        "amount": 3,
+        "unit": "cloves"
+      },
+      {
+        "name": "fresh thyme leaves",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "dry white wine",
+        "amount": 0.33,
+        "unit": "cup",
+        "note": "or stock"
+      },
+      {
+        "name": "cream",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "parmesan, finely grated",
+        "amount": 60,
+        "unit": "g"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "black pepper",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "fresh parsley, chopped",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "lemon zest",
+        "amount": 0.5,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Bring a large pot of well-salted water to a boil for the pasta.",
+      "Heat the oil and half the butter in a wide pan over high heat. Add the mushrooms in a single layer and leave them alone for 3 minutes before stirring. Cook until deeply browned, 8 to 10 minutes. Season with half the salt.",
+      "Lower the heat, add the remaining butter, shallot, garlic and thyme, and cook 2 minutes.",
+      "Pour in the wine and let it bubble away almost completely. Add the cream and simmer 3 minutes.",
+      "Meanwhile cook the pasta until just under al dente. Keep a cup of the cooking water.",
+      "Toss the pasta into the sauce with the parmesan, pepper and a splash of pasta water. Stir vigorously over low heat until the sauce clings. Add more water if needed.",
+      "Finish with parsley and lemon zest. Serve at once with more parmesan."
+    ],
+    "tips": [
+      "Crowding the pan steams mushrooms instead of browning them. Use your widest pan, or cook in two batches.",
+      "A teaspoon of miso or a few dried porcini soaked in the stock deepens the flavour."
+    ],
+    "readMore": [],
+    "allergens": {
+      "contains": [
+        "gluten",
+        "milk"
+      ],
+      "optional": [
+        "sulphites"
+      ],
+      "check": [],
+      "swaps": [
+        "Use gluten-free pasta.",
+        "Use a plant butter or neutral oil instead of butter.",
+        "Swap cream for coconut cream or cashew cream.",
+        "Use a dairy-free cheese, or leave it out."
+      ]
+    }
+  },
+  {
+    "slug": "shoyu-ramen",
+    "name": "Home-style Shoyu Ramen",
+    "category": "Dinner",
+    "cuisine": "Japanese",
+    "region": "Tokyo",
+    "diet": "non-veg",
+    "spice": 0,
+    "prepTime": 20,
+    "cookTime": 40,
+    "restTime": 240,
+    "servings": 2,
+    "tag": "Japanese · 1 h + egg marinade",
+    "intro": "A weeknight-possible soy ramen: quick dashi-chicken broth, a soy tare, springy noodles, a jammy marinated egg and quick-braised pork. Not a 12-hour tonkotsu, and still deeply satisfying.",
+    "ingredients": [
+      {
+        "name": "fresh ramen noodles",
+        "amount": 2,
+        "unit": "portions (about 240 g)"
+      },
+      {
+        "name": "chicken stock",
+        "amount": 1,
+        "unit": "litre"
+      },
+      {
+        "name": "kombu (dried kelp)",
+        "amount": 1,
+        "unit": "10 cm piece"
+      },
+      {
+        "name": "dried shiitake mushrooms",
+        "amount": 3,
+        "unit": ""
+      },
+      {
+        "name": "garlic, smashed",
+        "amount": 3,
+        "unit": "cloves"
+      },
+      {
+        "name": "ginger, sliced",
+        "amount": 3,
+        "unit": "slices"
+      },
+      {
+        "name": "spring onions",
+        "amount": 4,
+        "unit": ""
+      },
+      {
+        "name": "soy sauce",
+        "amount": 5,
+        "unit": "tbsp",
+        "note": "divided"
+      },
+      {
+        "name": "mirin",
+        "amount": 3,
+        "unit": "tbsp",
+        "note": "divided"
+      },
+      {
+        "name": "sake (or water)",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "eggs",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "pork belly or shoulder, in one piece",
+        "amount": 300,
+        "unit": "g"
+      },
+      {
+        "name": "sugar",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "toasted sesame oil",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "nori sheets, halved",
+        "amount": 1,
+        "unit": ""
+      },
+      {
+        "name": "bamboo shoots (menma) and sweetcorn",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "optional toppings"
+      }
+    ],
+    "steps": [
+      "Eggs first: lower them into boiling water for exactly 6½ minutes, then into iced water. Peel. Marinate in 2 tbsp soy, 1 tbsp mirin and 3 tbsp water for 4 hours or overnight.",
+      "Pork: put it in a small pot with 2 tbsp soy, 2 tbsp mirin, the sugar, 1 spring onion and water to barely cover. Simmer, covered, 40 minutes, turning once. Cool in the liquid, then slice thinly.",
+      "Broth: put the stock, kombu, shiitake, garlic, ginger and 2 spring onions in a pot. Heat slowly; remove the kombu just before it boils. Simmer gently 20 minutes, then strain.",
+      "Tare: mix the remaining 1 tbsp soy, the sake and 2 tbsp of the pork braising liquid. Divide between two deep bowls with ½ tsp sesame oil each.",
+      "Cook the noodles in plenty of boiling water according to the packet, usually 2 minutes. Drain very well.",
+      "Pour the hot broth over the tare in each bowl and stir. Add the noodles, lifting them with chopsticks so they sit neatly.",
+      "Top with the sliced pork, a halved egg, nori, sliced spring onion, and bamboo shoots or corn. Eat immediately, loudly."
+    ],
+    "tips": [
+      "Warm the bowls with hot water first; ramen cools fast.",
+      "Vegetarian: swap chicken stock for a kombu-shiitake dashi, the pork for grilled tofu, and use soy for the tare."
+    ],
+    "readMore": [],
+    "allergens": {
+      "contains": [
+        "gluten",
+        "soy",
+        "sulphites",
+        "egg",
+        "sesame"
+      ],
+      "optional": [],
+      "check": [
+        "Shop-bought breads and noodles may contain egg, milk, sesame or soy.",
+        "Stock cubes and ready stocks can contain celery, gluten or soy.",
+        "Soy sauce contains wheat; tamari is a gluten-free swap."
+      ],
+      "swaps": [
+        "Use rice noodles for a gluten-free bowl.",
+        "Use tamari instead of soy sauce.",
+        "Leave out the sesame seeds or oil.",
+        "For egg-free baking, use 1 tbsp ground flax + 3 tbsp water per egg."
+      ]
+    }
+  },
+  {
+    "slug": "caramel-custard-pudding",
+    "name": "Caramel Custard Pudding",
+    "category": "Dessert",
+    "cuisine": "European / Indian",
+    "region": "The Pixel Pudding house special",
+    "diet": "egg",
+    "spice": 0,
+    "prepTime": 15,
+    "cookTime": 45,
+    "restTime": 240,
+    "servings": 6,
+    "tag": "House special · chill 4 h",
+    "intro": "The dish on our logo. A wobbly baked custard that turns out of its mould wearing a cap of dark amber caramel. Known as flan, crème caramel, or simply caramel pudding in Indian club kitchens.",
+    "ingredients": [
+      {
+        "name": "sugar, for the caramel",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "water",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "whole milk",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "cream",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "eggs",
+        "amount": 3,
+        "unit": "large"
+      },
+      {
+        "name": "egg yolks",
+        "amount": 2,
+        "unit": ""
+      },
+      {
+        "name": "sugar, for the custard",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "pinch"
+      },
+      {
+        "name": "glacé cherry, to decorate",
+        "amount": 1,
+        "unit": "",
+        "note": "optional"
+      }
+    ],
+    "steps": [
+      "Heat the oven to 160 °C (140 °C fan). Put a 20 cm round tin (or 6 ramekins) in a deep roasting tray.",
+      "Make the caramel: heat ½ cup sugar and the water in a small pan without stirring until it turns deep amber, 6 to 8 minutes. Swirl the pan, not a spoon. Pour at once into the tin and tilt to coat the base. It will harden; that is fine.",
+      "Warm the milk and cream until steaming, not boiling.",
+      "Whisk the eggs, yolks, ½ cup sugar, vanilla and salt gently (no froth). Pour in the warm milk slowly, whisking. Strain through a sieve into the caramel-lined tin.",
+      "Pour hot water into the roasting tray to come halfway up the tin. Bake 40 to 45 minutes (25 for ramekins) until the edges are set and the centre still wobbles like jelly.",
+      "Cool, then chill at least 4 hours or overnight.",
+      "Run a thin knife around the edge, put a plate on top, and flip confidently. The caramel will pour over as sauce. Top with a cherry if you like."
+    ],
+    "tips": [
+      "Low oven and a water bath are what make it silky instead of rubbery or full of holes.",
+      "If your caramel seizes, add a spoon of water and reheat gently."
+    ],
+    "readMore": [],
+    "allergens": {
+      "contains": [
+        "milk",
+        "egg"
+      ],
+      "optional": [],
+      "check": [],
+      "swaps": [
+        "Milk is the heart of this dish, so there is no good dairy-free version."
+      ]
+    }
+  },
+  {
+    "slug": "strawberry-shortcake",
+    "name": "Strawberry Shortcake",
+    "category": "Dessert",
+    "cuisine": "American",
+    "region": "",
+    "diet": "egg",
+    "spice": 0,
+    "prepTime": 25,
+    "cookTime": 18,
+    "restTime": 30,
+    "servings": 6,
+    "tag": "Summer · 1 h",
+    "intro": "Buttery, barely sweet biscuits split and filled with macerated strawberries and softly whipped cream. Assemble just before eating so the layers stay distinct.",
+    "ingredients": [
+      {
+        "name": "strawberries, hulled and sliced",
+        "amount": 500,
+        "unit": "g"
+      },
+      {
+        "name": "sugar",
+        "amount": 5,
+        "unit": "tbsp",
+        "note": "divided"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "plain flour",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "baking powder",
+        "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "cold butter, cubed",
+        "amount": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cold cream, for the dough",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "egg, beaten, for brushing",
+        "amount": 1,
+        "unit": ""
+      },
+      {
+        "name": "cream, for whipping",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Toss the strawberries with 3 tbsp sugar and the lemon juice. Leave for 30 minutes to release their juice.",
+      "Heat the oven to 220 °C (200 °C fan). Whisk the flour, baking powder, salt and 1 tbsp sugar. Rub in the cold butter until it looks like coarse crumbs with some pea-sized bits.",
+      "Add the cold cream and stir with a fork just until it comes together. Pat (don't knead) into a 2.5 cm thick round on a floured surface.",
+      "Cut 6 rounds with a 7 cm cutter, pressing straight down without twisting. Brush the tops with egg and sprinkle with the last tablespoon of sugar.",
+      "Bake on a lined tray for 15 to 18 minutes until tall and golden. Cool on a rack.",
+      "Whip the cream with the vanilla to soft, drooping peaks.",
+      "Split each biscuit, spoon over strawberries and their juice, add a cloud of cream, and put the lid on. Serve immediately."
+    ],
+    "tips": [
+      "Cold butter and minimal handling make tall, flaky shortcakes.",
+      "Twisting the cutter seals the edges and stops them rising."
+    ],
+    "readMore": [],
+    "allergens": {
+      "contains": [
+        "gluten",
+        "milk",
+        "egg"
+      ],
+      "optional": [],
+      "check": [],
+      "swaps": [
+        "Use a gluten-free flour blend; expect a more delicate texture.",
+        "Use a plant butter or neutral oil instead of butter.",
+        "Swap cream for coconut cream or cashew cream.",
+        "For egg-free baking, use 1 tbsp ground flax + 3 tbsp water per egg."
+      ]
+    }
+  },
+  {
+    "slug": "fudgy-brownies",
+    "name": "Fudgy Brownies",
+    "category": "Dessert",
+    "cuisine": "American",
+    "region": "",
+    "diet": "egg",
+    "spice": 0,
+    "prepTime": 15,
+    "cookTime": 25,
+    "restTime": 60,
+    "servings": 12,
+    "tag": "One bowl · 16 squares",
+    "intro": "Dense, dark and fudgy with a crackly paper-thin top. Real chocolate plus cocoa, and pulled from the oven while the middle still looks slightly underdone.",
+    "ingredients": [
+      {
+        "name": "dark chocolate (60-70 %), chopped",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "butter",
+        "amount": 170,
+        "unit": "g"
+      },
+      {
+        "name": "sugar",
+        "amount": 1.25,
+        "unit": "cups"
+      },
+      {
+        "name": "eggs",
+        "amount": 3,
+        "unit": "large"
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "plain flour",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "cocoa powder",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "salt",
+        "amount": 0.75,
+        "unit": "tsp"
+      },
+      {
+        "name": "chocolate chips or chopped walnuts",
+        "amount": 0.75,
+        "unit": "cup",
+        "note": "optional"
+      },
+      {
+        "name": "flaky sea salt, for the top",
+        "amount": 1,
+        "unit": "pinch"
+      }
+    ],
+    "steps": [
+      "Heat the oven to 175 °C (160 °C fan). Line a 20 cm square tin with baking paper, leaving overhang.",
+      "Melt the chocolate and butter together in a bowl over simmering water, or in short bursts in the microwave. Cool for 5 minutes.",
+      "Whisk the sugar into the chocolate, then the eggs one at a time, beating hard for a minute after the last one. This vigorous whisk gives the shiny top. Add the vanilla.",
+      "Sift in the flour, cocoa and salt and fold gently just until combined. Fold in the chips or nuts.",
+      "Scrape into the tin, smooth the top and sprinkle with flaky salt.",
+      "Bake 22 to 26 minutes. A skewer should come out with moist crumbs, not clean. The centre will look slightly under-set.",
+      "Cool completely in the tin, at least 1 hour, before lifting out and cutting into 16 squares."
+    ],
+    "tips": [
+      "Chill the cooled brownies for an hour for the cleanest cuts and the fudgiest texture.",
+      "Over-baking by even 5 minutes turns fudgy into cakey. Set a timer."
+    ],
+    "readMore": [],
+    "allergens": {
+      "contains": [
+        "milk",
+        "egg",
+        "gluten"
+      ],
+      "optional": [
+        "tree nuts"
+      ],
+      "check": [
+        "Chocolate often contains milk and soy, and may contain nuts."
+      ],
+      "swaps": [
+        "Use a plant butter or neutral oil instead of butter.",
+        "Use a gluten-free flour blend; expect a more delicate texture.",
+        "Nuts here are a garnish or optional: just leave them out (pumpkin or sunflower seeds add crunch).",
+        "For egg-free baking, use 1 tbsp ground flax + 3 tbsp water per egg."
+      ]
+    }
+  },
+  {
+    "slug": "chocolate-chip-cookies",
+    "name": "Chocolate Chip Cookies",
+    "category": "Snacks",
+    "cuisine": "American",
+    "region": "",
+    "diet": "egg",
+    "spice": 0,
+    "prepTime": 15,
+    "cookTime": 12,
+    "restTime": 60,
+    "servings": 12,
+    "tag": "Chewy · 24 cookies",
+    "intro": "Crisp edges, chewy middles, puddles of melted chocolate. Browned butter and an hour's rest in the fridge turn a good cookie into the one people ask about.",
+    "ingredients": [
+      {
+        "name": "butter",
+        "amount": 170,
+        "unit": "g"
+      },
+      {
+        "name": "brown sugar",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "white sugar",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "egg",
+        "amount": 1,
+        "unit": "large"
+      },
+      {
+        "name": "egg yolk",
+        "amount": 1,
+        "unit": ""
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "plain flour",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "baking soda",
+        "amount": 0.75,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 0.75,
+        "unit": "tsp"
+      },
+      {
+        "name": "dark chocolate, chopped into chunks",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "flaky sea salt, for the top",
+        "amount": 1,
+        "unit": "pinch"
+      }
+    ],
+    "steps": [
+      "Melt the butter in a light-coloured pan over medium heat and keep cooking, swirling, until it foams, smells nutty and brown specks appear, 5 to 6 minutes. Pour into a large bowl and cool 10 minutes.",
+      "Whisk both sugars into the butter, then the egg, yolk and vanilla, until glossy.",
+      "Stir in the flour, baking soda and salt until just combined. Fold in the chocolate.",
+      "Cover and chill the dough for at least 1 hour (up to 3 days). This is where the flavour deepens and the spread is controlled.",
+      "Heat the oven to 180 °C (160 °C fan). Scoop 2-tablespoon balls onto lined trays, 6 cm apart.",
+      "Bake 11 to 13 minutes until the edges are golden and the centres still look soft. Tap the tray on the counter once as they come out to flatten the middles.",
+      "Sprinkle with flaky salt and cool on the tray for 5 minutes before moving."
+    ],
+    "tips": [
+      "Chopped bar chocolate melts into puddles; chips hold their shape. Use chunks.",
+      "Freeze scooped dough balls and bake from frozen, adding 2 minutes, for cookies on demand."
+    ],
+    "readMore": [],
+    "allergens": {
+      "contains": [
+        "milk",
+        "egg",
+        "gluten"
+      ],
+      "optional": [],
+      "check": [
+        "Chocolate often contains milk and soy, and may contain nuts."
+      ],
+      "swaps": [
+        "Use a plant butter or neutral oil instead of butter.",
+        "Use a gluten-free flour blend; expect a more delicate texture.",
+        "For egg-free baking, use 1 tbsp ground flax + 3 tbsp water per egg."
+      ]
+    }
+  },
+  {
+    "slug": "banana-bread",
+    "name": "Banana Bread",
+    "category": "Snacks",
+    "cuisine": "American",
+    "region": "",
+    "diet": "egg",
+    "spice": 0,
+    "prepTime": 15,
+    "cookTime": 60,
+    "restTime": 30,
+    "servings": 10,
+    "tag": "One loaf · 1 h 15",
+    "intro": "What to do with the three spotty bananas on the counter. Moist, dark and lightly spiced, with a sugar-crackled top. Better on day two, if it lasts.",
+    "ingredients": [
+      {
+        "name": "very ripe bananas, mashed",
+        "amount": 3,
+        "unit": "large (about 1½ cups)"
+      },
+      {
+        "name": "butter, melted",
+        "amount": 115,
+        "unit": "g"
+      },
+      {
+        "name": "brown sugar",
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "egg",
+        "amount": 1,
+        "unit": "large"
+      },
+      {
+        "name": "vanilla extract",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "plain flour",
+        "amount": 1.5,
+        "unit": "cups"
+      },
+      {
+        "name": "baking soda",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "ground cinnamon",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "walnuts or chocolate chips",
+        "amount": 0.5,
+        "unit": "cup",
+        "note": "optional"
+      },
+      {
+        "name": "demerara sugar, for the top",
+        "amount": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Heat the oven to 175 °C (160 °C fan). Line a 23 × 13 cm loaf tin with baking paper.",
+      "Stir the melted butter into the mashed bananas. Mix in the brown sugar, egg and vanilla.",
+      "Sprinkle the baking soda, salt and cinnamon over the top and stir in. Add the flour and fold just until no dry flour remains. Fold in the nuts or chips.",
+      "Pour into the tin, sprinkle with demerara sugar.",
+      "Bake 55 to 65 minutes until a skewer in the centre comes out clean. Tent with foil after 40 minutes if the top is browning too fast.",
+      "Cool in the tin 15 minutes, then on a rack. Slice when just warm, or wrap and keep for 3 days."
+    ],
+    "tips": [
+      "Bananas should be heavily speckled or black. Underripe bananas make bland bread.",
+      "Freeze overripe bananas in their skins; thaw and squeeze out when you want to bake."
+    ],
+    "readMore": [],
+    "allergens": {
+      "contains": [
+        "milk",
+        "egg",
+        "gluten"
+      ],
+      "optional": [
+        "tree nuts"
+      ],
+      "check": [
+        "Chocolate often contains milk and soy, and may contain nuts."
+      ],
+      "swaps": [
+        "Use a plant butter or neutral oil instead of butter.",
+        "Use a gluten-free flour blend; expect a more delicate texture.",
+        "Nuts here are a garnish or optional: just leave them out (pumpkin or sunflower seeds add crunch).",
+        "For egg-free baking, use 1 tbsp ground flax + 3 tbsp water per egg."
+      ]
+    }
+  },
+  {
+    "slug": "hummus-with-pita",
+    "name": "Classic Hummus with Pita",
+    "category": "Snacks",
+    "cuisine": "Middle Eastern",
+    "region": "Levant",
+    "diet": "vegan",
+    "spice": 0,
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 6,
+    "tag": "Levantine · 25 min",
+    "intro": "Impossibly smooth hummus, the Levantine way: over-cooked chickpeas, plenty of tahini, ice-cold water whipped in, and a pool of good olive oil on top. With warm pita triangles for scooping.",
+    "ingredients": [
+      {
+        "name": "canned chickpeas, drained (keep the liquid)",
+        "amount": 2,
+        "unit": "cans (400 g each)"
+      },
+      {
+        "name": "baking soda",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "tahini",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "lemon juice",
+        "amount": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "garlic",
+        "amount": 2,
+        "unit": "cloves"
+      },
+      {
+        "name": "ground cumin",
+        "amount": 0.75,
+        "unit": "tsp"
+      },
+      {
+        "name": "salt",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "ice-cold water",
+        "amount": 4,
+        "unit": "tbsp"
+      },
+      {
+        "name": "extra-virgin olive oil",
+        "amount": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "paprika and chopped parsley, to serve",
+        "amount": 1,
+        "unit": "pinch"
+      },
+      {
+        "name": "pita breads",
+        "amount": 4,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Simmer the chickpeas in water with the baking soda for 10 minutes until very soft and the skins float free. Drain and rinse; skim off loose skins.",
+      "In a food processor, blend the tahini, lemon juice and garlic for 1 minute until pale and thick.",
+      "Add the chickpeas, cumin and salt. Blend 2 minutes, scraping down the sides.",
+      "With the motor running, add the ice water a tablespoon at a time. Blend another 2 to 3 minutes until completely smooth and fluffy. Patience here is what makes it silky.",
+      "Taste: it should be lemony, salty and nutty. Adjust.",
+      "Warm the pitas in a dry pan or oven and cut into triangles.",
+      "Spread the hummus in a shallow bowl, swirl a well with the back of a spoon, pour in the olive oil, dust with paprika and parsley."
+    ],
+    "tips": [
+      "The baking soda simmer softens the skins, and that is the difference between grainy and silky.",
+      "Hummus thickens in the fridge; loosen with a splash of water before serving."
+    ],
+    "readMore": [],
+    "allergens": {
+      "contains": [
+        "sesame",
+        "gluten"
+      ],
+      "optional": [],
+      "check": [
+        "Shop-bought breads and noodles may contain egg, milk, sesame or soy."
+      ],
+      "swaps": [
+        "Use sunflower-seed butter instead of tahini.",
+        "Serve with gluten-free bread, or rice / rice rotis."
+      ]
+    }
+  }
+]
