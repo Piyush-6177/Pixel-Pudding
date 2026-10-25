@@ -3,7 +3,7 @@ import { useEffect, useContext, createContext } from 'react';
 /** On the server, the prerender script provides a collector here; the page's meta is written into it during render. */
 export const MetaContext = createContext(null);
 
-const SITE = 'https://pixelpudding.example'; // ← change to your real domain before launch
+const SITE = 'https://pixel-pudding.vercel.app';
 
 const setTag = (sel, attrs) => {
   let el = document.head.querySelector(sel);
