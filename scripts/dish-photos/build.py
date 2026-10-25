@@ -21,7 +21,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
 CACHE, PIX = os.path.join(HERE, '.cache'), os.path.join(HERE, 'pixels')
 OUT_DIR = os.path.join(ROOT, 'public', 'dishes')
-UA = {'User-Agent': 'PixelPuddingRecipeSite/1.0 (https://github.com/; pixel dish image builder) python-urllib'}
+UA = {'User-Agent': 'PixelPuddingRecipeSite/1.0 (https://github.com/Piyush-6177/Pixel-Pudding; pixel dish image builder) python-urllib'}
 
 def get(url, timeout=60):
     """GET with polite retries: Wikimedia answers 429 when we go too fast."""
