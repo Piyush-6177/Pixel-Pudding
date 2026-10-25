@@ -133,7 +133,7 @@ This writes `public/dishes/<slug>.png` and updates `src/data/photo-credits.json`
 ## Deploying
 
 1. Set your domain in `src/lib/useMeta.js` (`SITE`). Canonical links, the sitemap and social images use it.
-2. Run `npm run build` and deploy the `dist/` folder to any static host (Netlify, Vercel, GitHub Pages, Cloudflare Pages). `public/_redirects` already sends unknown paths to the app on Netlify.
+2. Run `npm run build` and deploy the `dist/` folder to any static host (Netlify, Vercel, GitHub Pages, Cloudflare Pages).
 3. Submit `https://your-domain/sitemap.xml` in Google Search Console.
 
 ## Credits and licences
