@@ -3,3 +3,8 @@ dist
 dist-ssr
 .DS_Store
 scripts/dish-photos/.cache
+.env
+.env.*
+*.log
+.vscode/
+.idea/
