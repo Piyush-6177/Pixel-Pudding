@@ -1206,117 +1206,121 @@
     }
   },
   {
-    "slug": "butter-chicken",
-    "name": "Butter Chicken",
+    "slug": "malai-kofta",
+    "name": "Malai Kofta",
     "category": "Dinner",
     "cuisine": "Indian",
-    "region": "Delhi",
-    "diet": "non-veg",
+    "region": "North India",
+    "diet": "veg",
     "spice": 1,
-    "prepTime": 20,
+    "prepTime": 30,
     "cookTime": 40,
-    "restTime": 120,
     "servings": 4,
-    "tag": "Delhi · marinate 2 h",
-    "intro": "Murgh makhani, the Delhi classic: charred tandoori-style chicken folded into a silky tomato-butter gravy perfumed with kasuri methi. Rich without being heavy, and gentle on spice.",
+    "tag": "North Indian · festive",
+    "intro": "Soft potato-paneer dumplings with a raisin-cashew centre, fried golden and served in a smooth, mildly sweet tomato-cashew gravy finished with cream. The dish that makes a weekday feel like a wedding dinner.",
     "ingredients": [
       {
-        "name": "boneless chicken thighs, in 4 cm pieces",
-        "amount": 700,
-        "unit": "g"
-      },
-      {
-        "name": "thick yogurt",
-        "amount": 0.5,
-        "unit": "cup"
-      },
-      {
-        "name": "ginger-garlic paste",
-        "amount": 2,
-        "unit": "tbsp",
-        "note": "divided"
-      },
-      {
-        "name": "Kashmiri red chilli powder",
-        "amount": 2,
-        "unit": "tsp",
-        "note": "divided"
-      },
-      {
-        "name": "garam masala",
-        "amount": 1.5,
-        "unit": "tsp",
-        "note": "divided"
-      },
-      {
-        "name": "lemon juice",
-        "amount": 1,
-        "unit": "tbsp"
-      },
-      {
-        "name": "tomatoes, roughly chopped",
-        "amount": 6,
+        "name": "potatoes, boiled, peeled and grated",
+        "amount": 3,
         "unit": "medium"
       },
       {
-        "name": "cashews",
-        "amount": 12,
-        "unit": ""
+        "name": "paneer, finely grated",
+        "amount": 200,
+        "unit": "g"
       },
       {
-        "name": "butter",
-        "amount": 4,
+        "name": "cornflour",
+        "amount": 3,
+        "unit": "tbsp",
+        "note": "plus extra for dusting"
+      },
+      {
+        "name": "raisins",
+        "amount": 1,
         "unit": "tbsp"
       },
       {
-        "name": "oil",
+        "name": "cashews",
+        "amount": 20,
+        "unit": "",
+        "note": "4 chopped for the filling, the rest soaked for the gravy"
+      },
+      {
+        "name": "oil, for deep frying",
+        "amount": 2,
+        "unit": "cups"
+      },
+      {
+        "name": "butter",
         "amount": 2,
         "unit": "tbsp"
       },
       {
-        "name": "green cardamom",
+        "name": "onions, roughly chopped",
+        "amount": 2,
+        "unit": "medium"
+      },
+      {
+        "name": "tomatoes, roughly chopped",
         "amount": 3,
-        "unit": ""
+        "unit": "medium"
       },
       {
-        "name": "cinnamon stick",
+        "name": "ginger-garlic paste",
         "amount": 1,
-        "unit": "2 cm piece"
+        "unit": "tbsp"
       },
       {
-        "name": "sugar or honey",
+        "name": "Kashmiri red chilli powder",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "coriander powder",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "garam masala",
+        "amount": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "sugar",
         "amount": 1,
         "unit": "tsp"
       },
       {
         "name": "kasuri methi",
-        "amount": 1.5,
+        "amount": 1,
         "unit": "tsp"
       },
       {
         "name": "cream",
-        "amount": 0.5,
+        "amount": 0.25,
         "unit": "cup"
       },
       {
         "name": "salt",
         "amount": 1.5,
-        "unit": "tsp"
+        "unit": "tsp",
+        "note": "divided"
       }
     ],
     "steps": [
-      "Marinate the chicken with the yogurt, 1 tbsp ginger-garlic paste, 1 tsp chilli powder, ½ tsp garam masala, lemon juice and ½ tsp salt for at least 2 hours, ideally overnight.",
-      "Cook the chicken on a very hot grill pan or under the grill, turning once, until charred at the edges and just cooked, 8 to 10 minutes. Set aside with its juices.",
-      "For the gravy, melt 2 tbsp butter with the oil in a heavy pot. Add the cardamom and cinnamon, then the remaining ginger-garlic paste, and fry 1 minute.",
-      "Add the tomatoes, cashews, remaining chilli powder and 1 tsp salt. Cover and cook on medium heat until the tomatoes collapse completely, 15 minutes.",
-      "Remove the cinnamon. Blend the mixture until completely smooth and pass it through a sieve back into the pot. This is the step that makes it silky.",
-      "Simmer the puree with the sugar for 5 minutes. Add the chicken and its juices, the remaining butter and garam masala, and simmer 5 minutes more.",
-      "Crush the kasuri methi between your palms into the pot, stir in the cream and warm through without boiling. Serve with naan or jeera rice."
+      "For the koftas, knead the grated potato and paneer with the cornflour and ½ tsp salt into a smooth dough that does not stick to your hands. Add a little more cornflour if it does.",
+      "Divide into 12 balls. Flatten each one, put a raisin and a few bits of chopped cashew in the middle, close it and roll smooth. Dust lightly with cornflour.",
+      "Heat the oil to medium-hot. Test one kofta first: if it cracks, knead in another spoon of cornflour. Fry 3 or 4 at a time, turning gently, until golden all over, 3 to 4 minutes. Drain on paper.",
+      "For the gravy, melt the butter in a pan and fry the onions until soft and light gold, 8 minutes. Add the ginger-garlic paste and fry 1 minute.",
+      "Add the tomatoes, the soaked cashews, chilli powder, coriander powder and 1 tsp salt. Cook covered until the tomatoes collapse, 10 minutes. Cool a little and blend until completely smooth.",
+      "Return the puree to the pan with ¾ cup water, the sugar and garam masala. Simmer 5 minutes until it coats a spoon. Crush in the kasuri methi and stir in the cream.",
+      "Put the koftas in serving bowls and pour the hot gravy over just before eating, so they stay soft but do not fall apart. Serve with naan or jeera rice."
     ],
     "tips": [
-      "Kashmiri chilli gives the deep red colour with very little heat.",
-      "The sieve is not optional if you want the restaurant texture.",
-      "Paneer makhani: swap the chicken for 400 g paneer, skip the marinade, add the cubes at step 6."
+      "Squeeze the paneer dry in a cloth if it is wet; damp dough is what makes koftas burst in the oil.",
+      "Grate the potatoes while warm but not hot, and only boil them until just tender.",
+      "Lighter version: brush the koftas with oil and air-fry at 190 °C for 12 minutes."
     ],
     "readMore": [
       "Pushpesh Pant, India: The Cookbook"
@@ -1324,6 +1328,7 @@
     "allergens": {
       "contains": [
         "milk",
+        "sulphites",
         "tree nuts"
       ],
       "optional": [],
@@ -1331,7 +1336,7 @@
         "Ready-made spice blends can contain mustard, wheat or traces of nuts. Check the pack."
       ],
       "swaps": [
-        "Use a plant yogurt (coconut or soy) instead of dairy yogurt.",
+        "Use firm tofu in place of paneer.",
         "Nuts here are a garnish or optional: just leave them out (pumpkin or sunflower seeds add crunch).",
         "Use a plant butter or neutral oil instead of butter.",
         "Swap cream for coconut cream or cashew cream."
@@ -1339,48 +1344,54 @@
     }
   },
   {
-    "slug": "chicken-biryani",
-    "name": "Hyderabadi Chicken Dum Biryani",
+    "slug": "veg-dum-biryani",
+    "name": "Hyderabadi Veg Dum Biryani",
     "category": "Dinner",
     "cuisine": "Indian",
     "region": "Hyderabad",
-    "diet": "non-veg",
+    "diet": "veg",
     "spice": 2,
     "prepTime": 40,
-    "cookTime": 60,
-    "restTime": 240,
+    "cookTime": 50,
+    "restTime": 30,
     "servings": 6,
     "tag": "Hyderabadi · weekend project",
-    "intro": "Kacchi-style dum biryani: raw marinated chicken layered under par-cooked basmati, sealed and slow-steamed until the rice drinks the juices. A weekend project that fills the whole house with saffron and fried onion.",
+    "intro": "Kacchi-style dum biryani made with vegetables: spiced, yogurt-marinated vegetables layered under par-cooked basmati, sealed and slow-steamed until the rice drinks in the masala. Saffron, mint and crisp fried onions on every layer.",
     "ingredients": [
       {
-        "name": "chicken, bone-in pieces",
-        "amount": 1,
-        "unit": "kg"
-      },
-      {
         "name": "aged basmati rice",
-        "amount": 3,
-        "unit": "cups"
+        "amount": 2,
+        "unit": "cups",
+        "note": "rinsed and soaked 30 min"
       },
       {
-        "name": "onions, thinly sliced",
-        "amount": 4,
-        "unit": "large"
+        "name": "mixed vegetables (carrot, beans, cauliflower, peas), in bite-size pieces",
+        "amount": 500,
+        "unit": "g"
       },
       {
         "name": "thick yogurt",
-        "amount": 1,
+        "amount": 0.75,
+        "unit": "cup"
+      },
+      {
+        "name": "onions, thinly sliced",
+        "amount": 3,
+        "unit": "large"
+      },
+      {
+        "name": "oil, for frying onions",
+        "amount": 0.5,
         "unit": "cup"
       },
       {
         "name": "ginger-garlic paste",
-        "amount": 3,
+        "amount": 1,
         "unit": "tbsp"
       },
       {
         "name": "green chillies, slit",
-        "amount": 6,
+        "amount": 3,
         "unit": ""
       },
       {
@@ -1400,44 +1411,38 @@
       },
       {
         "name": "fresh mint leaves",
-        "amount": 1,
+        "amount": 0.5,
         "unit": "cup"
       },
       {
         "name": "fresh coriander, chopped",
-        "amount": 1,
+        "amount": 0.5,
         "unit": "cup"
       },
       {
         "name": "lemon juice",
-        "amount": 2,
+        "amount": 1,
         "unit": "tbsp"
       },
       {
-        "name": "oil, for frying onions",
-        "amount": 1,
-        "unit": "cup"
-      },
-      {
         "name": "ghee",
-        "amount": 4,
+        "amount": 3,
         "unit": "tbsp"
       },
       {
         "name": "saffron, soaked in ¼ cup warm milk",
-        "amount": 0.5,
-        "unit": "tsp"
+        "amount": 1,
+        "unit": "pinch"
       },
       {
-        "name": "whole spices: bay leaves 2, green cardamom 5, cloves 5, cinnamon 2 sticks, star anise 1, shahi jeera 1 tsp",
+        "name": "whole spices: bay leaves 2, green cardamom 5, cloves 5, cinnamon 2 sticks, shahi jeera 1 tsp",
         "amount": 1,
         "unit": "set"
       },
       {
-        "name": "salt",
-        "amount": 3,
-        "unit": "tbsp",
-        "note": "most goes in the rice water"
+        "name": "salt (most goes in the rice water)",
+        "amount": 1,
+        "unit": "tbsp"
       },
       {
         "name": "wholewheat dough or foil, to seal",
@@ -1446,19 +1451,19 @@
       }
     ],
     "steps": [
-      "Fry the sliced onions in the oil over medium heat, stirring often, until evenly deep golden and crisp, 20 to 25 minutes. Drain on paper. Keep 3 tbsp of the onion oil.",
-      "Marinate the chicken with the yogurt, ginger-garlic paste, chillies, chilli powder, turmeric, garam masala, half the mint and coriander, half the fried onions, lemon juice, the reserved onion oil, 2 tbsp ghee and 1½ tsp salt. Rest 4 hours or overnight.",
-      "Wash the rice gently until the water runs clear and soak for 30 minutes. Drain.",
-      "Bring 3 litres of water to a boil with the whole spices and the remaining salt (it should taste like the sea). Add the rice and cook until 70 % done, about 5 to 6 minutes: a grain should break with a slight bite. Drain immediately.",
-      "Spread the marinated chicken in a single layer in a heavy, wide pot. Layer the rice on top. Scatter the remaining fried onions, mint, coriander, the saffron milk and the remaining ghee over the rice.",
-      "Seal the lid with a rope of dough or a tight double layer of foil, then the lid. Cook on high heat for 5 minutes, then place the pot on a tawa (griddle) over the lowest heat and cook for 35 to 40 minutes.",
-      "Rest off the heat, still sealed, for 15 minutes. Open at the table. Lift from the bottom with a flat spoon so each serving has chicken, saffron rice and white rice.",
-      "Serve with mirchi ka salan or cucumber raita."
+      "Fry the onions in the oil over medium heat, stirring often, until deep golden and crisp, 15 to 20 minutes. Lift out onto paper. Keep the oil.",
+      "In a heavy pot, mix the vegetables with the yogurt, ginger-garlic paste, green chillies, chilli powder, turmeric, garam masala, lemon juice, half the mint and coriander, half the fried onions, 3 tbsp of the onion oil and 1½ tsp salt. Rest 30 minutes.",
+      "Bring a large pot of water to a rolling boil with the whole spices and 2 tbsp salt. It should taste like the sea.",
+      "Drain the rice, add it to the boiling water and cook 5 to 6 minutes, until about 70% done: a grain should break with a firm white core. Drain at once.",
+      "Spread the rice over the vegetables. Scatter the rest of the mint, coriander and fried onions on top, drizzle over the saffron milk and the melted ghee.",
+      "Seal the lid with a rope of dough (or two layers of foil under the lid). Cook on high heat for 5 minutes, until you hear it sizzle.",
+      "Set the pot on a flat tawa or griddle, turn the heat to low and cook 30 minutes. Turn off the heat and leave it sealed 10 minutes more.",
+      "Break the seal at the table. Serve from the side of the pot so each plate gets rice and vegetables from the bottom. Serve with raita and mirchi ka salan."
     ],
     "tips": [
+      "Cut firmer vegetables like carrot smaller than cauliflower so everything cooks in the same time.",
       "The rice must be undercooked at step 4; it finishes in the steam. Overcooked rice turns to porridge.",
-      "The tawa under the pot stops the bottom from catching.",
-      "Chicken thighs and drumsticks stay juicier than breast under dum."
+      "Add a handful of paneer cubes or soaked soya chunks to the marinade for a more filling biryani."
     ],
     "readMore": [
       "Pratibha Karan, Biryani"
@@ -1613,39 +1618,53 @@
     }
   },
   {
-    "slug": "kerala-fish-curry",
-    "name": "Kerala Fish Curry",
+    "slug": "kerala-vegetable-stew",
+    "name": "Kerala Vegetable Stew",
     "category": "Dinner",
     "cuisine": "Indian",
     "region": "Kerala",
-    "diet": "non-veg",
-    "spice": 3,
-    "prepTime": 15,
-    "cookTime": 25,
+    "diet": "vegan",
+    "spice": 1,
+    "prepTime": 20,
+    "cookTime": 30,
     "servings": 4,
-    "tag": "Kerala · 40 min",
-    "intro": "Meen curry the way it is made along the Malabar coast: fish simmered in a red coconut-milk gravy soured with kudampuli (Malabar tamarind) and finished with curry leaves fried in coconut oil.",
+    "tag": "Kerala · coconut milk",
+    "intro": "Ishtu, the gentle white stew of Kerala: potatoes, carrots and beans simmered in coconut milk with whole spices, ginger, green chilli and curry leaves. Fragrant rather than fiery, and made for soaking up with lacy appam.",
     "ingredients": [
       {
-        "name": "firm white fish steaks (kingfish, seer or pomfret)",
-        "amount": 600,
-        "unit": "g"
+        "name": "coconut oil",
+        "amount": 2,
+        "unit": "tbsp"
       },
       {
-        "name": "kudampuli (Malabar tamarind) pieces",
-        "amount": 3,
-        "unit": "",
-        "note": "or 1 tbsp tamarind paste"
+        "name": "cinnamon stick",
+        "amount": 1,
+        "unit": "2 cm piece"
       },
       {
-        "name": "shallots, sliced",
-        "amount": 10,
+        "name": "green cardamom",
+        "amount": 4,
         "unit": ""
       },
       {
-        "name": "garlic, sliced",
-        "amount": 6,
-        "unit": "cloves"
+        "name": "cloves",
+        "amount": 4,
+        "unit": ""
+      },
+      {
+        "name": "black peppercorns",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "curry leaves",
+        "amount": 2,
+        "unit": "sprigs"
+      },
+      {
+        "name": "onion, thinly sliced",
+        "amount": 1,
+        "unit": "large"
       },
       {
         "name": "ginger, julienned",
@@ -1658,39 +1677,29 @@
         "unit": ""
       },
       {
-        "name": "tomato, chopped",
-        "amount": 1,
+        "name": "potatoes, in 2 cm cubes",
+        "amount": 2,
         "unit": "medium"
       },
       {
-        "name": "Kashmiri red chilli powder",
-        "amount": 2,
-        "unit": "tbsp"
-      },
-      {
-        "name": "coriander powder",
+        "name": "carrot, in 2 cm pieces",
         "amount": 1,
-        "unit": "tbsp"
+        "unit": "large"
       },
       {
-        "name": "turmeric powder",
+        "name": "green beans, in 3 cm pieces",
+        "amount": 12,
+        "unit": ""
+      },
+      {
+        "name": "green peas",
         "amount": 0.5,
-        "unit": "tsp"
+        "unit": "cup"
       },
       {
-        "name": "fenugreek seeds",
-        "amount": 0.25,
-        "unit": "tsp"
-      },
-      {
-        "name": "mustard seeds",
-        "amount": 1,
-        "unit": "tsp"
-      },
-      {
-        "name": "curry leaves",
+        "name": "thin coconut milk",
         "amount": 2,
-        "unit": "sprigs"
+        "unit": "cups"
       },
       {
         "name": "thick coconut milk",
@@ -1698,48 +1707,32 @@
         "unit": "cup"
       },
       {
-        "name": "thin coconut milk (or water)",
-        "amount": 1.5,
-        "unit": "cups"
-      },
-      {
-        "name": "coconut oil",
-        "amount": 3,
-        "unit": "tbsp"
-      },
-      {
         "name": "salt",
-        "amount": 1.25,
+        "amount": 1,
         "unit": "tsp"
       }
     ],
     "steps": [
-      "Soak the kudampuli in ½ cup warm water for 15 minutes. Rub the fish with ¼ tsp turmeric and a pinch of salt.",
-      "Mix the chilli powder, coriander powder and remaining turmeric with 3 tbsp water into a paste.",
-      "Heat 2 tbsp coconut oil in a clay pot or wide pan. Pop the mustard seeds, add the fenugreek and one sprig of curry leaves, then the shallots, garlic, ginger and green chillies. Fry until the shallots soften, 4 minutes.",
-      "Add the spice paste and fry on low heat for 2 minutes until the oil turns red. Add the tomato and cook 2 minutes.",
-      "Pour in the thin coconut milk, the kudampuli with its soaking water, and the salt. Bring to a boil and simmer 5 minutes.",
-      "Slide in the fish pieces in a single layer. Do not stir; swirl the pan instead. Simmer gently for 8 to 10 minutes until the fish is just cooked.",
-      "Lower the heat, pour in the thick coconut milk and heat through without boiling. Turn off.",
-      "Heat the remaining coconut oil in a tiny pan, crackle the second sprig of curry leaves and pour over the curry. Rest for 10 minutes before serving with matta rice or appam."
+      "Heat the coconut oil in a wide pan. Add the cinnamon, cardamom, cloves and peppercorns and let them sizzle for 30 seconds.",
+      "Add half the curry leaves, the onion, ginger and green chillies. Cook on medium heat until the onion is soft and translucent but not browned, 5 minutes.",
+      "Add the potatoes, carrot, beans and salt. Stir to coat in the oil for 1 minute.",
+      "Pour in the thin coconut milk. Cover and simmer gently until the vegetables are just tender, 15 to 18 minutes. Add the peas for the last 5 minutes.",
+      "Lower the heat and stir in the thick coconut milk. Warm through for 2 minutes without letting it boil, or the coconut milk will split.",
+      "Taste for salt, scatter over the remaining curry leaves, cover and rest 5 minutes. Serve with appam, idiyappam or rice."
     ],
     "tips": [
-      "Fish curry is better after a few hours' rest, and better still the next day.",
-      "Kudampuli has a smoky sourness unlike regular tamarind; look for it in Kerala stores or online."
+      "Keep the onions pale: the stew should stay creamy white.",
+      "Tinned coconut milk works well: use one 400 ml tin, thinning half of it with water for the first simmer.",
+      "A teaspoon of coconut oil drizzled on top at the end gives the proper Kerala aroma."
     ],
     "readMore": [
       "Lathika George, The Suriani Kitchen"
     ],
     "allergens": {
-      "contains": [
-        "fish",
-        "mustard"
-      ],
+      "contains": [],
       "optional": [],
       "check": [],
-      "swaps": [
-        "Leave out the mustard (seeds or oil); use cumin seeds or another oil."
-      ]
+      "swaps": []
     }
   },
   {

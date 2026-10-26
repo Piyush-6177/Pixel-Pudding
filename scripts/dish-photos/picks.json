@@ -119,22 +119,22 @@
    0.95
   ]
  },
- "butter-chicken": {
-  "title": "File:Butter Chicken, City Grill Kottayam.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Butter_Chicken,_City_Grill_Kottayam.jpg",
-  "artist": "Vis M",
+ "malai-kofta": {
+  "title": "File:Malai kofta.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Malai_kofta.jpg",
+  "artist": "Fatimahope",
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "crop": [
-   0.64,
-   0.52,
-   0.95
+   0.5,
+   0.5,
+   1
   ]
  },
- "chicken-biryani": {
-  "title": "File:Hyderabadi Biryani Home made.png",
-  "page": "https://commons.wikimedia.org/wiki/File:Hyderabadi_Biryani_Home_made.png",
-  "artist": "Syed Aiyaz Uddin",
+ "veg-dum-biryani": {
+  "title": "File:Vegetable Biryani & Pomegranate Raita.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Vegetable_Biryani_%26_Pomegranate_Raita.jpg",
+  "artist": "Monali.mishra",
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "crop": [
@@ -155,16 +155,16 @@
    1
   ]
  },
- "kerala-fish-curry": {
-  "title": "File:Kerala Style Fish Curry.JPG",
-  "page": "https://commons.wikimedia.org/wiki/File:Kerala_Style_Fish_Curry.JPG",
-  "artist": "Nairdeepa",
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+ "kerala-vegetable-stew": {
+  "title": "File:Ishtu Potato Stew (15728955899).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ishtu_Potato_Stew_(15728955899).jpg",
+  "artist": "Yummy O Yummy",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
   "crop": [
-   0.5,
-   0.5,
-   1
+   0.63,
+   0.57,
+   0.7
   ]
  },
  "dal-makhani": {
@@ -395,12 +395,12 @@
    0.72
   ]
  },
- "shoyu-ramen": {
-  "title": "File:Shoyu Ramen（Tokyo Ramen） - 01.jpg",
-  "page": "https://commons.wikimedia.org/wiki/File:Shoyu_Ramen%EF%BC%88Tokyo_Ramen%EF%BC%89_-_01.jpg",
-  "artist": "Quercus acuta",
-  "license": "CC BY-SA 4.0",
-  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+ "vegan-miso-ramen": {
+  "title": "File:Miso ramen with fried tofu, corn, wakame seaweed, chili strings, and scallions - Massachusetts.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Miso_ramen_with_fried_tofu,_corn,_wakame_seaweed,_chili_strings,_and_scallions_-_Massachusetts.jpg",
+  "artist": "Daderot",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "crop": [
    0.5,
    0.5,

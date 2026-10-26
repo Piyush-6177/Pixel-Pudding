@@ -835,29 +835,24 @@
     }
   },
   {
-    "slug": "shoyu-ramen",
-    "name": "Home-style Shoyu Ramen",
+    "slug": "vegan-miso-ramen",
+    "name": "Vegan Miso Ramen",
     "category": "Dinner",
     "cuisine": "Japanese",
-    "region": "Tokyo",
-    "diet": "non-veg",
-    "spice": 0,
+    "region": "Sapporo",
+    "diet": "vegan",
+    "spice": 1,
     "prepTime": 20,
-    "cookTime": 40,
-    "restTime": 240,
+    "cookTime": 35,
+    "restTime": 30,
     "servings": 2,
-    "tag": "Japanese · 1 h + egg marinade",
-    "intro": "A weeknight-possible soy ramen: quick dashi-chicken broth, a soy tare, springy noodles, a jammy marinated egg and quick-braised pork. Not a 12-hour tonkotsu, and still deeply satisfying.",
+    "tag": "Japanese · 1 h with soaking",
+    "intro": "Sapporo-style miso ramen with a fully plant-based broth: kombu and shiitake dashi enriched with miso, garlic, ginger and sesame, topped with crisp tofu, buttery sweetcorn, greens and spring onion.",
     "ingredients": [
       {
-        "name": "fresh ramen noodles",
-        "amount": 2,
-        "unit": "portions (about 240 g)"
-      },
-      {
-        "name": "chicken stock",
-        "amount": 1,
-        "unit": "litre"
+        "name": "water",
+        "amount": 5,
+        "unit": "cups"
       },
       {
         "name": "kombu (dried kelp)",
@@ -866,85 +861,95 @@
       },
       {
         "name": "dried shiitake mushrooms",
-        "amount": 3,
+        "amount": 6,
         "unit": ""
       },
       {
-        "name": "garlic, smashed",
-        "amount": 3,
-        "unit": "cloves"
-      },
-      {
-        "name": "ginger, sliced",
-        "amount": 3,
-        "unit": "slices"
-      },
-      {
-        "name": "spring onions",
+        "name": "white or red miso paste",
         "amount": 4,
-        "unit": ""
+        "unit": "tbsp"
       },
       {
         "name": "soy sauce",
-        "amount": 5,
+        "amount": 2,
         "unit": "tbsp",
         "note": "divided"
       },
       {
         "name": "mirin",
-        "amount": 3,
-        "unit": "tbsp",
-        "note": "divided"
-      },
-      {
-        "name": "sake (or water)",
-        "amount": 2,
-        "unit": "tbsp"
-      },
-      {
-        "name": "eggs",
-        "amount": 2,
-        "unit": ""
-      },
-      {
-        "name": "pork belly or shoulder, in one piece",
-        "amount": 300,
-        "unit": "g"
-      },
-      {
-        "name": "sugar",
         "amount": 1,
         "unit": "tbsp"
       },
       {
         "name": "toasted sesame oil",
         "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "garlic, grated",
+        "amount": 2,
+        "unit": "cloves"
+      },
+      {
+        "name": "ginger, grated",
+        "amount": 1,
         "unit": "tsp"
       },
       {
-        "name": "nori sheets, halved",
+        "name": "firm tofu, pressed and cubed",
+        "amount": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cornflour",
         "amount": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "neutral oil",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "ramen noodles",
+        "amount": 2,
+        "unit": "portions",
+        "note": "egg-free, see tips"
+      },
+      {
+        "name": "sweetcorn",
+        "amount": 0.5,
+        "unit": "cup"
+      },
+      {
+        "name": "baby spinach or pak choi",
+        "amount": 2,
+        "unit": "handfuls"
+      },
+      {
+        "name": "spring onions, sliced",
+        "amount": 2,
         "unit": ""
       },
       {
-        "name": "bamboo shoots (menma) and sweetcorn",
-        "amount": 0.5,
-        "unit": "cup",
-        "note": "optional toppings"
+        "name": "chilli oil and sesame seeds",
+        "amount": 1,
+        "unit": "",
+        "note": "optional, to serve"
       }
     ],
     "steps": [
-      "Eggs first: lower them into boiling water for exactly 6½ minutes, then into iced water. Peel. Marinate in 2 tbsp soy, 1 tbsp mirin and 3 tbsp water for 4 hours or overnight.",
-      "Pork: put it in a small pot with 2 tbsp soy, 2 tbsp mirin, the sugar, 1 spring onion and water to barely cover. Simmer, covered, 40 minutes, turning once. Cool in the liquid, then slice thinly.",
-      "Broth: put the stock, kombu, shiitake, garlic, ginger and 2 spring onions in a pot. Heat slowly; remove the kombu just before it boils. Simmer gently 20 minutes, then strain.",
-      "Tare: mix the remaining 1 tbsp soy, the sake and 2 tbsp of the pork braising liquid. Divide between two deep bowls with ½ tsp sesame oil each.",
-      "Cook the noodles in plenty of boiling water according to the packet, usually 2 minutes. Drain very well.",
-      "Pour the hot broth over the tare in each bowl and stir. Add the noodles, lifting them with chopsticks so they sit neatly.",
-      "Top with the sliced pork, a halved egg, nori, sliced spring onion, and bamboo shoots or corn. Eat immediately, loudly."
+      "Soak the kombu and shiitake in the water for 30 minutes (or overnight in the fridge). Bring slowly to a simmer, remove the kombu just before it boils, and simmer the mushrooms 15 minutes. Lift out the shiitake, slice them and keep for topping.",
+      "Toss the tofu with 1 tbsp soy sauce, then the cornflour. Fry in the neutral oil over medium-high heat until crisp on all sides, 8 minutes.",
+      "In a small pan, warm the sesame oil and fry the garlic and ginger for 30 seconds until fragrant. Take off the heat and stir in the miso, the remaining soy sauce and the mirin to make the tare.",
+      "Cook the noodles in a separate pot of boiling water following the pack, usually 2 to 3 minutes. Blanch the greens in the same water for the last 30 seconds. Drain.",
+      "Keep the dashi just below a simmer. Whisk a ladle of it into the tare, then stir that back into the pot. Do not boil once the miso is in.",
+      "Divide the noodles between warm bowls and ladle over the broth. Top with the tofu, sliced shiitake, sweetcorn, greens and spring onions, and add chilli oil and sesame seeds if you like."
     ],
     "tips": [
       "Warm the bowls with hot water first; ramen cools fast.",
-      "Vegetarian: swap chicken stock for a kombu-shiitake dashi, the pork for grilled tofu, and use soy for the tare."
+      "Many fresh ramen noodles contain egg. Check the pack, or use dried wheat or rice noodles.",
+      "A spoon of tahini or unsweetened soy milk whisked into the broth makes it rich and creamy."
     ],
     "readMore": [],
     "allergens": {
@@ -952,20 +957,18 @@
         "gluten",
         "soy",
         "sulphites",
-        "egg",
         "sesame"
       ],
       "optional": [],
       "check": [
-        "Shop-bought breads and noodles may contain egg, milk, sesame or soy.",
         "Stock cubes and ready stocks can contain celery, gluten or soy.",
-        "Soy sauce contains wheat; tamari is a gluten-free swap."
+        "Soy sauce contains wheat; tamari is a gluten-free swap.",
+        "Shop-bought breads and noodles may contain egg, milk, sesame or soy."
       ],
       "swaps": [
-        "Use rice noodles for a gluten-free bowl.",
         "Use tamari instead of soy sauce.",
         "Leave out the sesame seeds or oil.",
-        "For egg-free baking, use 1 tbsp ground flax + 3 tbsp water per egg."
+        "Use rice noodles for a gluten-free bowl."
       ]
     }
   },
